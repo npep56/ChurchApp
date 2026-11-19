@@ -1,0 +1,704 @@
+[
+ {
+  "church_id": 1,
+  "name": "Sample Methodist Church #1",
+  "city": "Newnan",
+  "address": "107 Sample St, Newnan, GA",
+  "lat": 33.36661,
+  "lng": -84.82763,
+  "website": ""
+ },
+ {
+  "church_id": 2,
+  "name": "Sample Presbyterian Church #2",
+  "city": "Newnan",
+  "address": "114 Sample St, Newnan, GA",
+  "lat": 33.39277,
+  "lng": -84.83391,
+  "website": ""
+ },
+ {
+  "church_id": 3,
+  "name": "Sample Community Church #3",
+  "city": "Newnan",
+  "address": "121 Sample St, Newnan, GA",
+  "lat": 33.38357,
+  "lng": -84.81044,
+  "website": "example.com/church-3"
+ },
+ {
+  "church_id": 4,
+  "name": "Sample Church of God #4",
+  "city": "Newnan",
+  "address": "128 Sample St, Newnan, GA",
+  "lat": 33.34534,
+  "lng": -84.79911,
+  "website": ""
+ },
+ {
+  "church_id": 5,
+  "name": "Sample Fellowship #5",
+  "city": "Newnan",
+  "address": "135 Sample St, Newnan, GA",
+  "lat": 33.3437,
+  "lng": -84.80501,
+  "website": ""
+ },
+ {
+  "church_id": 6,
+  "name": "Sample Bible Church #6",
+  "city": "Newnan",
+  "address": "142 Sample St, Newnan, GA",
+  "lat": 33.34629,
+  "lng": -84.83244,
+  "website": "example.com/church-6"
+ },
+ {
+  "church_id": 7,
+  "name": "Sample Baptist Church #7",
+  "city": "Newnan",
+  "address": "149 Sample St, Newnan, GA",
+  "lat": 33.37466,
+  "lng": -84.77355,
+  "website": ""
+ },
+ {
+  "church_id": 8,
+  "name": "Sample Methodist Church #8",
+  "city": "Newnan",
+  "address": "156 Sample St, Newnan, GA",
+  "lat": 33.3506,
+  "lng": -84.82184,
+  "website": ""
+ },
+ {
+  "church_id": 9,
+  "name": "Sample Presbyterian Church #9",
+  "city": "Newnan",
+  "address": "163 Sample St, Newnan, GA",
+  "lat": 33.39089,
+  "lng": -84.76388,
+  "website": "example.com/church-9"
+ },
+ {
+  "church_id": 10,
+  "name": "Sample Community Church #10",
+  "city": "Newnan",
+  "address": "170 Sample St, Newnan, GA",
+  "lat": 33.38687,
+  "lng": -84.80797,
+  "website": ""
+ },
+ {
+  "church_id": 11,
+  "name": "Sample Church of God #11",
+  "city": "Newnan",
+  "address": "177 Sample St, Newnan, GA",
+  "lat": 33.4188,
+  "lng": -84.83597,
+  "website": ""
+ },
+ {
+  "church_id": 12,
+  "name": "Sample Fellowship #12",
+  "city": "Newnan",
+  "address": "184 Sample St, Newnan, GA",
+  "lat": 33.40938,
+  "lng": -84.81653,
+  "website": "example.com/church-12"
+ },
+ {
+  "church_id": 13,
+  "name": "Sample Bible Church #13",
+  "city": "Newnan",
+  "address": "191 Sample St, Newnan, GA",
+  "lat": 33.35224,
+  "lng": -84.83028,
+  "website": ""
+ },
+ {
+  "church_id": 14,
+  "name": "Sample Baptist Church #14",
+  "city": "Newnan",
+  "address": "198 Sample St, Newnan, GA",
+  "lat": 33.36538,
+  "lng": -84.77441,
+  "website": ""
+ },
+ {
+  "church_id": 15,
+  "name": "Sample Methodist Church #15",
+  "city": "Newnan",
+  "address": "205 Sample St, Newnan, GA",
+  "lat": 33.35516,
+  "lng": -84.79317,
+  "website": "example.com/church-15"
+ },
+ {
+  "church_id": 16,
+  "name": "Sample Presbyterian Church #16",
+  "city": "Newnan",
+  "address": "212 Sample St, Newnan, GA",
+  "lat": 33.39181,
+  "lng": -84.80991,
+  "website": ""
+ },
+ {
+  "church_id": 17,
+  "name": "Sample Community Church #17",
+  "city": "Newnan",
+  "address": "219 Sample St, Newnan, GA",
+  "lat": 33.38452,
+  "lng": -84.83468,
+  "website": ""
+ },
+ {
+  "church_id": 18,
+  "name": "Sample Church of God #18",
+  "city": "Newnan",
+  "address": "226 Sample St, Newnan, GA",
+  "lat": 33.34547,
+  "lng": -84.82322,
+  "website": "example.com/church-18"
+ },
+ {
+  "church_id": 19,
+  "name": "Sample Fellowship #19",
+  "city": "Newnan",
+  "address": "233 Sample St, Newnan, GA",
+  "lat": 33.39513,
+  "lng": -84.80549,
+  "website": ""
+ },
+ {
+  "church_id": 20,
+  "name": "Sample Bible Church #20",
+  "city": "Newnan",
+  "address": "240 Sample St, Newnan, GA",
+  "lat": 33.36583,
+  "lng": -84.79286,
+  "website": ""
+ },
+ {
+  "church_id": 21,
+  "name": "Sample Baptist Church #21",
+  "city": "Newnan",
+  "address": "247 Sample St, Newnan, GA",
+  "lat": 33.37695,
+  "lng": -84.81572,
+  "website": "example.com/church-21"
+ },
+ {
+  "church_id": 22,
+  "name": "Sample Methodist Church #22",
+  "city": "Newnan",
+  "address": "254 Sample St, Newnan, GA",
+  "lat": 33.40425,
+  "lng": -84.78378,
+  "website": ""
+ },
+ {
+  "church_id": 23,
+  "name": "Sample Presbyterian Church #23",
+  "city": "Newnan",
+  "address": "261 Sample St, Newnan, GA",
+  "lat": 33.36023,
+  "lng": -84.79375,
+  "website": ""
+ },
+ {
+  "church_id": 24,
+  "name": "Sample Community Church #24",
+  "city": "Newnan",
+  "address": "268 Sample St, Newnan, GA",
+  "lat": 33.38272,
+  "lng": -84.76969,
+  "website": "example.com/church-24"
+ },
+ {
+  "church_id": 25,
+  "name": "Sample Church of God #25",
+  "city": "Newnan",
+  "address": "275 Sample St, Newnan, GA",
+  "lat": 33.39906,
+  "lng": -84.81666,
+  "website": ""
+ },
+ {
+  "church_id": 26,
+  "name": "Sample Fellowship #26",
+  "city": "Newnan",
+  "address": "282 Sample St, Newnan, GA",
+  "lat": 33.41911,
+  "lng": -84.83025,
+  "website": ""
+ },
+ {
+  "church_id": 27,
+  "name": "Sample Bible Church #27",
+  "city": "Newnan",
+  "address": "289 Sample St, Newnan, GA",
+  "lat": 33.37415,
+  "lng": -84.77913,
+  "website": "example.com/church-27"
+ },
+ {
+  "church_id": 28,
+  "name": "Sample Baptist Church #28",
+  "city": "Newnan",
+  "address": "296 Sample St, Newnan, GA",
+  "lat": 33.35286,
+  "lng": -84.80058,
+  "website": ""
+ },
+ {
+  "church_id": 29,
+  "name": "Sample Methodist Church #29",
+  "city": "Newnan",
+  "address": "303 Sample St, Newnan, GA",
+  "lat": 33.34384,
+  "lng": -84.78624,
+  "website": ""
+ },
+ {
+  "church_id": 30,
+  "name": "Sample Presbyterian Church #30",
+  "city": "Newnan",
+  "address": "310 Sample St, Newnan, GA",
+  "lat": 33.40187,
+  "lng": -84.79386,
+  "website": "example.com/church-30"
+ },
+ {
+  "church_id": 31,
+  "name": "Sample Community Church #31",
+  "city": "Senoia",
+  "address": "317 Sample St, Senoia, GA",
+  "lat": 33.31792,
+  "lng": -84.56155,
+  "website": ""
+ },
+ {
+  "church_id": 32,
+  "name": "Sample Church of God #32",
+  "city": "Senoia",
+  "address": "324 Sample St, Senoia, GA",
+  "lat": 33.31071,
+  "lng": -84.55033,
+  "website": ""
+ },
+ {
+  "church_id": 33,
+  "name": "Sample Fellowship #33",
+  "city": "Senoia",
+  "address": "331 Sample St, Senoia, GA",
+  "lat": 33.3061,
+  "lng": -84.55585,
+  "website": "example.com/church-33"
+ },
+ {
+  "church_id": 34,
+  "name": "Sample Bible Church #34",
+  "city": "Senoia",
+  "address": "338 Sample St, Senoia, GA",
+  "lat": 33.3165,
+  "lng": -84.53631,
+  "website": ""
+ },
+ {
+  "church_id": 35,
+  "name": "Sample Baptist Church #35",
+  "city": "Senoia",
+  "address": "345 Sample St, Senoia, GA",
+  "lat": 33.30186,
+  "lng": -84.54753,
+  "website": ""
+ },
+ {
+  "church_id": 36,
+  "name": "Sample Methodist Church #36",
+  "city": "Senoia",
+  "address": "352 Sample St, Senoia, GA",
+  "lat": 33.28533,
+  "lng": -84.54604,
+  "website": "example.com/church-36"
+ },
+ {
+  "church_id": 37,
+  "name": "Sample Presbyterian Church #37",
+  "city": "Senoia",
+  "address": "359 Sample St, Senoia, GA",
+  "lat": 33.30879,
+  "lng": -84.53438,
+  "website": ""
+ },
+ {
+  "church_id": 38,
+  "name": "Sample Community Church #38",
+  "city": "Senoia",
+  "address": "366 Sample St, Senoia, GA",
+  "lat": 33.31578,
+  "lng": -84.56272,
+  "website": ""
+ },
+ {
+  "church_id": 39,
+  "name": "Sample Church of God #39",
+  "city": "Grantville",
+  "address": "373 Sample St, Grantville, GA",
+  "lat": 33.23023,
+  "lng": -84.82795,
+  "website": "example.com/church-39"
+ },
+ {
+  "church_id": 40,
+  "name": "Sample Fellowship #40",
+  "city": "Grantville",
+  "address": "380 Sample St, Grantville, GA",
+  "lat": 33.2157,
+  "lng": -84.83623,
+  "website": ""
+ },
+ {
+  "church_id": 41,
+  "name": "Sample Bible Church #41",
+  "city": "Grantville",
+  "address": "387 Sample St, Grantville, GA",
+  "lat": 33.22152,
+  "lng": -84.85002,
+  "website": ""
+ },
+ {
+  "church_id": 42,
+  "name": "Sample Baptist Church #42",
+  "city": "Grantville",
+  "address": "394 Sample St, Grantville, GA",
+  "lat": 33.21716,
+  "lng": -84.82397,
+  "website": "example.com/church-42"
+ },
+ {
+  "church_id": 43,
+  "name": "Sample Methodist Church #43",
+  "city": "Grantville",
+  "address": "401 Sample St, Grantville, GA",
+  "lat": 33.21997,
+  "lng": -84.8448,
+  "website": ""
+ },
+ {
+  "church_id": 44,
+  "name": "Sample Presbyterian Church #44",
+  "city": "Grantville",
+  "address": "408 Sample St, Grantville, GA",
+  "lat": 33.23044,
+  "lng": -84.81984,
+  "website": ""
+ },
+ {
+  "church_id": 45,
+  "name": "Sample Community Church #45",
+  "city": "Grantville",
+  "address": "415 Sample St, Grantville, GA",
+  "lat": 33.21802,
+  "lng": -84.83673,
+  "website": "example.com/church-45"
+ },
+ {
+  "church_id": 46,
+  "name": "Sample Church of God #46",
+  "city": "Grantville",
+  "address": "422 Sample St, Grantville, GA",
+  "lat": 33.23678,
+  "lng": -84.81936,
+  "website": ""
+ },
+ {
+  "church_id": 47,
+  "name": "Sample Fellowship #47",
+  "city": "Sharpsburg",
+  "address": "429 Sample St, Sharpsburg, GA",
+  "lat": 33.35177,
+  "lng": -84.63594,
+  "website": ""
+ },
+ {
+  "church_id": 48,
+  "name": "Sample Bible Church #48",
+  "city": "Sharpsburg",
+  "address": "436 Sample St, Sharpsburg, GA",
+  "lat": 33.33014,
+  "lng": -84.65389,
+  "website": "example.com/church-48"
+ },
+ {
+  "church_id": 49,
+  "name": "Sample Baptist Church #49",
+  "city": "Sharpsburg",
+  "address": "443 Sample St, Sharpsburg, GA",
+  "lat": 33.33335,
+  "lng": -84.63513,
+  "website": ""
+ },
+ {
+  "church_id": 50,
+  "name": "Sample Methodist Church #50",
+  "city": "Sharpsburg",
+  "address": "450 Sample St, Sharpsburg, GA",
+  "lat": 33.35731,
+  "lng": -84.66446,
+  "website": ""
+ },
+ {
+  "church_id": 51,
+  "name": "Sample Presbyterian Church #51",
+  "city": "Sharpsburg",
+  "address": "457 Sample St, Sharpsburg, GA",
+  "lat": 33.32605,
+  "lng": -84.66122,
+  "website": "example.com/church-51"
+ },
+ {
+  "church_id": 52,
+  "name": "Sample Community Church #52",
+  "city": "Sharpsburg",
+  "address": "464 Sample St, Sharpsburg, GA",
+  "lat": 33.32833,
+  "lng": -84.6511,
+  "website": ""
+ },
+ {
+  "church_id": 53,
+  "name": "Sample Church of God #53",
+  "city": "Sharpsburg",
+  "address": "471 Sample St, Sharpsburg, GA",
+  "lat": 33.34256,
+  "lng": -84.65999,
+  "website": ""
+ },
+ {
+  "church_id": 54,
+  "name": "Sample Fellowship #54",
+  "city": "Sharpsburg",
+  "address": "478 Sample St, Sharpsburg, GA",
+  "lat": 33.31916,
+  "lng": -84.65374,
+  "website": "example.com/church-54"
+ },
+ {
+  "church_id": 55,
+  "name": "Sample Bible Church #55",
+  "city": "Moreland",
+  "address": "485 Sample St, Moreland, GA",
+  "lat": 33.28228,
+  "lng": -84.76601,
+  "website": ""
+ },
+ {
+  "church_id": 56,
+  "name": "Sample Baptist Church #56",
+  "city": "Moreland",
+  "address": "492 Sample St, Moreland, GA",
+  "lat": 33.29979,
+  "lng": -84.76229,
+  "website": ""
+ },
+ {
+  "church_id": 57,
+  "name": "Sample Methodist Church #57",
+  "city": "Moreland",
+  "address": "499 Sample St, Moreland, GA",
+  "lat": 33.28666,
+  "lng": -84.76447,
+  "website": "example.com/church-57"
+ },
+ {
+  "church_id": 58,
+  "name": "Sample Presbyterian Church #58",
+  "city": "Moreland",
+  "address": "506 Sample St, Moreland, GA",
+  "lat": 33.29149,
+  "lng": -84.78138,
+  "website": ""
+ },
+ {
+  "church_id": 59,
+  "name": "Sample Community Church #59",
+  "city": "Moreland",
+  "address": "513 Sample St, Moreland, GA",
+  "lat": 33.29819,
+  "lng": -84.7596,
+  "website": ""
+ },
+ {
+  "church_id": 60,
+  "name": "Sample Church of God #60",
+  "city": "Moreland",
+  "address": "520 Sample St, Moreland, GA",
+  "lat": 33.29744,
+  "lng": -84.75906,
+  "website": "example.com/church-60"
+ },
+ {
+  "church_id": 61,
+  "name": "Sample Fellowship #61",
+  "city": "Moreland",
+  "address": "527 Sample St, Moreland, GA",
+  "lat": 33.28297,
+  "lng": -84.77103,
+  "website": ""
+ },
+ {
+  "church_id": 62,
+  "name": "Sample Bible Church #62",
+  "city": "Moreland",
+  "address": "534 Sample St, Moreland, GA",
+  "lat": 33.27431,
+  "lng": -84.76397,
+  "website": ""
+ },
+ {
+  "church_id": 63,
+  "name": "Sample Baptist Church #63",
+  "city": "Turin",
+  "address": "541 Sample St, Turin, GA",
+  "lat": 33.31854,
+  "lng": -84.64495,
+  "website": "example.com/church-63"
+ },
+ {
+  "church_id": 64,
+  "name": "Sample Methodist Church #64",
+  "city": "Turin",
+  "address": "548 Sample St, Turin, GA",
+  "lat": 33.32148,
+  "lng": -84.64305,
+  "website": ""
+ },
+ {
+  "church_id": 65,
+  "name": "Sample Presbyterian Church #65",
+  "city": "Turin",
+  "address": "555 Sample St, Turin, GA",
+  "lat": 33.3241,
+  "lng": -84.64525,
+  "website": ""
+ },
+ {
+  "church_id": 66,
+  "name": "Sample Community Church #66",
+  "city": "Turin",
+  "address": "562 Sample St, Turin, GA",
+  "lat": 33.3173,
+  "lng": -84.64327,
+  "website": "example.com/church-66"
+ },
+ {
+  "church_id": 67,
+  "name": "Sample Church of God #67",
+  "city": "Turin",
+  "address": "569 Sample St, Turin, GA",
+  "lat": 33.31933,
+  "lng": -84.63903,
+  "website": ""
+ },
+ {
+  "church_id": 68,
+  "name": "Sample Fellowship #68",
+  "city": "Turin",
+  "address": "576 Sample St, Turin, GA",
+  "lat": 33.31781,
+  "lng": -84.62881,
+  "website": ""
+ },
+ {
+  "church_id": 69,
+  "name": "Sample Bible Church #69",
+  "city": "Turin",
+  "address": "583 Sample St, Turin, GA",
+  "lat": 33.32958,
+  "lng": -84.64333,
+  "website": "example.com/church-69"
+ },
+ {
+  "church_id": 70,
+  "name": "Sample Baptist Church #70",
+  "city": "Turin",
+  "address": "590 Sample St, Turin, GA",
+  "lat": 33.32235,
+  "lng": -84.63935,
+  "website": ""
+ },
+ {
+  "church_id": 71,
+  "name": "Sample Methodist Church #71",
+  "city": "Haralson",
+  "address": "597 Sample St, Haralson, GA",
+  "lat": 33.22458,
+  "lng": -84.58164,
+  "website": ""
+ },
+ {
+  "church_id": 72,
+  "name": "Sample Presbyterian Church #72",
+  "city": "Haralson",
+  "address": "604 Sample St, Haralson, GA",
+  "lat": 33.23428,
+  "lng": -84.56424,
+  "website": "example.com/church-72"
+ },
+ {
+  "church_id": 73,
+  "name": "Sample Community Church #73",
+  "city": "Haralson",
+  "address": "611 Sample St, Haralson, GA",
+  "lat": 33.22662,
+  "lng": -84.57442,
+  "website": ""
+ },
+ {
+  "church_id": 74,
+  "name": "Sample Church of God #74",
+  "city": "Haralson",
+  "address": "618 Sample St, Haralson, GA",
+  "lat": 33.21902,
+  "lng": -84.58206,
+  "website": ""
+ },
+ {
+  "church_id": 75,
+  "name": "Sample Fellowship #75",
+  "city": "Haralson",
+  "address": "625 Sample St, Haralson, GA",
+  "lat": 33.22415,
+  "lng": -84.5788,
+  "website": "example.com/church-75"
+ },
+ {
+  "church_id": 76,
+  "name": "Sample Bible Church #76",
+  "city": "Haralson",
+  "address": "632 Sample St, Haralson, GA",
+  "lat": 33.23388,
+  "lng": -84.58087,
+  "website": ""
+ },
+ {
+  "church_id": 77,
+  "name": "Sample Baptist Church #77",
+  "city": "Haralson",
+  "address": "639 Sample St, Haralson, GA",
+  "lat": 33.21776,
+  "lng": -84.56508,
+  "website": ""
+ },
+ {
+  "church_id": 78,
+  "name": "Sample Methodist Church #78",
+  "city": "Haralson",
+  "address": "646 Sample St, Haralson, GA",
+  "lat": 33.22787,
+  "lng": -84.58117,
+  "website": "example.com/church-78"
+ }
+]
