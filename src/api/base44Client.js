@@ -6,7 +6,7 @@
 //   import { createClient } from '@base44/sdk';
 //   export const base44 = createClient({ appId: 'YOUR_APP_ID' });
 
-const STORAGE_KEY = 'coweta-churches-v2';
+const STORAGE_KEY = 'coweta-churches-v3';
 
 async function loadAll() {
   try {

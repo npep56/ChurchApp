@@ -129,22 +129,6 @@
  },
  {
   "church_id": 9,
-  "name": "Harmony Church",
-  "address": "GA 16, Jade Lake Village, GA 30263",
-  "city": "Newnan",
-  "lat": 33.302063,
-  "lng": -84.594651,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
-  "phone": "",
-  "denomination": "",
-  "address_approx": true,
-  "location_note": "",
-  "source": "OpenStreetMap node/358687039"
- },
- {
-  "church_id": 10,
   "name": "Calvary Baptist Church",
   "address": "Martin Mill Road, Moreland, GA 30263",
   "city": "Moreland",
@@ -160,7 +144,7 @@
   "source": "OpenStreetMap way/1010306829"
  },
  {
-  "church_id": 11,
+  "church_id": 10,
   "name": "First Baptist Church",
   "address": "2930 S Highway 29, Moreland, GA 30259",
   "city": "Moreland",
@@ -176,7 +160,7 @@
   "source": "christianity.com directory; OpenStreetMap node/10925220990"
  },
  {
-  "church_id": 12,
+  "church_id": 11,
   "name": "Gordon Road Church of Christ",
   "address": "1211 Gordon Rd, Moreland, GA 30259",
   "city": "Moreland",
@@ -192,7 +176,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358686224"
  },
  {
-  "church_id": 13,
+  "church_id": 12,
   "name": "Moreland United Methodist Church",
   "address": "16 Church St, Moreland, GA 30259",
   "city": "Moreland",
@@ -208,7 +192,7 @@
   "source": "christianity.com directory; OpenStreetMap node/10925220991"
  },
  {
-  "church_id": 14,
+  "church_id": 13,
   "name": "Mount Prospect Baptist Church",
   "address": "Bethlehem Church Road, Moreland, GA 30259",
   "city": "Moreland",
@@ -224,7 +208,7 @@
   "source": "OpenStreetMap node/358694177"
  },
  {
-  "church_id": 15,
+  "church_id": 14,
   "name": "Rehoboth Baptist Church- Main Campus",
   "address": "240 Bexton Rd, Moreland, GA 30259",
   "city": "Moreland",
@@ -240,7 +224,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358761387"
  },
  {
-  "church_id": 16,
+  "church_id": 15,
   "name": "Southside Baptist Church",
   "address": "321 Cline Rd, Moreland, GA 30259",
   "city": "Moreland",
@@ -256,7 +240,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 17,
+  "church_id": 16,
   "name": "Andrews Chapel United Methodist Church",
   "address": "4301 Roscoe Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -272,7 +256,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010307029"
  },
  {
-  "church_id": 18,
+  "church_id": 17,
   "name": "Arnco Baptist Church",
   "address": "81 Arnco 3Rd St, Newnan, GA 30263",
   "city": "Newnan",
@@ -288,7 +272,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358679629"
  },
  {
-  "church_id": 19,
+  "church_id": 18,
   "name": "Bethel United Methodist Church",
   "address": "Luther Bailey Road, Newnan, GA 30276",
   "city": "Newnan",
@@ -304,15 +288,15 @@
   "source": "OpenStreetMap node/358757639"
  },
  {
-  "church_id": 20,
+  "church_id": 19,
   "name": "Bethlehem Baptist Church",
   "address": "2194 W Grantville Rd, Newnan, GA 30263",
   "city": "Newnan",
   "lat": 33.291993,
   "lng": -84.829911,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://bethlehemnewnan.com",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "678-590-8143",
   "denomination": "Baptist, Southern",
   "address_approx": false,
@@ -320,7 +304,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1206119009"
  },
  {
-  "church_id": 21,
+  "church_id": 20,
   "name": "Beulah Baptist Church",
   "address": "936 Turkey Creek Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -336,7 +320,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358761406"
  },
  {
-  "church_id": 22,
+  "church_id": 21,
   "name": "Burns Chapel Methodist Episcopal Church",
   "address": "Lovelace Street, Newnan, GA 30263",
   "city": "Newnan",
@@ -352,7 +336,7 @@
   "source": "OpenStreetMap way/1010312558"
  },
  {
-  "church_id": 23,
+  "church_id": 22,
   "name": "By Faith Ministries",
   "address": "Johnson Road, Newnan, GA 30277",
   "city": "Newnan",
@@ -368,7 +352,7 @@
   "source": "OpenStreetMap node/12400549024"
  },
  {
-  "church_id": 24,
+  "church_id": 23,
   "name": "Calvary Baptist Church",
   "address": "2736 Martin Hill Rd, Newnan, GA 30264",
   "city": "Newnan",
@@ -384,15 +368,15 @@
   "source": "christianity.com directory; OpenStreetMap node/358693224"
  },
  {
-  "church_id": 25,
+  "church_id": 24,
   "name": "Calvary Chapel Newnan",
   "address": "210 Jefferson Pkwy, Newnan, GA 30264",
   "city": "Newnan",
   "lat": 33.399261,
   "lng": -84.770048,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://calvarynewnan.org",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "470-400-8104",
   "denomination": "Charismatic, Calvary Chapel",
   "address_approx": false,
@@ -400,7 +384,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 26,
+  "church_id": 25,
   "name": "Cedar Creek Church",
   "address": "Sewell Mill Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -416,7 +400,7 @@
   "source": "OpenStreetMap node/358682381"
  },
  {
-  "church_id": 27,
+  "church_id": 26,
   "name": "Central Baptist Church",
   "address": "14 W Broad St, Newnan, GA 30263",
   "city": "Newnan",
@@ -432,7 +416,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358761410"
  },
  {
-  "church_id": 28,
+  "church_id": 27,
   "name": "Christ Presbyterian Church",
   "address": "2331 Us Hwy 29, Newnan, GA 30265",
   "city": "Newnan",
@@ -448,7 +432,7 @@
   "source": "OpenStreetMap way/1010309937"
  },
  {
-  "church_id": 29,
+  "church_id": 28,
   "name": "Christian Families Today",
   "address": "Ashley Park Boulevard, Newnan, GA 30264",
   "city": "Newnan",
@@ -464,15 +448,15 @@
   "source": "OpenStreetMap way/1010304443"
  },
  {
-  "church_id": 30,
+  "church_id": 29,
   "name": "Cornerstone United Methodist Church",
   "address": "2956 Sharpsburg Mccullum Rd, Newnan, GA 30265",
   "city": "Newnan",
   "lat": 33.409734,
   "lng": -84.683997,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.cornerstonenewnan.org",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "678-552-9124",
   "denomination": "Methodist, United",
   "address_approx": false,
@@ -480,7 +464,7 @@
   "source": "christianity.com directory; OpenStreetMap way/723278682"
  },
  {
-  "church_id": 31,
+  "church_id": 30,
   "name": "Coweta Community Church",
   "address": "310 Millard Farmer Ind Blvd, Newnan, GA 30263",
   "city": "Newnan",
@@ -496,7 +480,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010311834"
  },
  {
-  "church_id": 32,
+  "church_id": 31,
   "name": "Crosspoint Community Church",
   "address": "1091 Posey Rd, Newnan, GA 30265",
   "city": "Newnan",
@@ -512,7 +496,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 33,
+  "church_id": 32,
   "name": "Crossroads Church",
   "address": "2564 Sharpsburg Mccullum Rd, Newnan, GA 30265",
   "city": "Newnan",
@@ -528,7 +512,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1279112961"
  },
  {
-  "church_id": 34,
+  "church_id": 33,
   "name": "Dent Chapel Methodist Church",
   "address": "Franklin Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -544,23 +528,7 @@
   "source": "OpenStreetMap node/358769732"
  },
  {
-  "church_id": 35,
-  "name": "East Newnan Baptist Church",
-  "address": "14 Pearl Springs Trl, Newnan, GA 30263",
-  "city": "Newnan",
-  "lat": 33.49155,
-  "lng": -84.842243,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
-  "phone": "770-253-0550",
-  "denomination": "Baptist, Southern",
-  "address_approx": false,
-  "location_note": "",
-  "source": "christianity.com directory"
- },
- {
-  "church_id": 36,
+  "church_id": 34,
   "name": "East Newnan Baptist Church",
   "address": "14 Pearl Springs Trail, Newnan, GA 30263",
   "city": "Newnan",
@@ -576,7 +544,7 @@
   "source": "OpenStreetMap way/1010318076"
  },
  {
-  "church_id": 37,
+  "church_id": 35,
   "name": "Eastside Church of God",
   "address": "20 Walters Ln, Sharpsburg, GA 30277",
   "city": "Newnan",
@@ -592,7 +560,7 @@
   "source": "OpenStreetMap way/1078315044; christianity.com directory (listed as Eastside Church of Christ)"
  },
  {
-  "church_id": 38,
+  "church_id": 36,
   "name": "Eastwood Church",
   "address": "GA 34, Newnan, GA 30277",
   "city": "Newnan",
@@ -608,7 +576,7 @@
   "source": "OpenStreetMap node/358757697"
  },
  {
-  "church_id": 39,
+  "church_id": 37,
   "name": "Elim Baptist Church",
   "address": "1529 Handy Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -624,7 +592,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358770126"
  },
  {
-  "church_id": 40,
+  "church_id": 38,
   "name": "Emanuel Church",
   "address": "Cline Road, Newnan, GA 30259",
   "city": "Newnan",
@@ -640,7 +608,7 @@
   "source": "OpenStreetMap node/358685079"
  },
  {
-  "church_id": 41,
+  "church_id": 39,
   "name": "Emmanuel Baptist Church",
   "address": "3911 Sharpsburg Mccullum Rd, Newnan, GA 30265",
   "city": "Newnan",
@@ -656,15 +624,15 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 42,
+  "church_id": 40,
   "name": "Emmanuel Life & Worship Center",
   "address": "102 E Freeman St, Newnan, GA 30263",
   "city": "Newnan",
   "lat": 33.352316,
   "lng": -84.7783,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.elwcnewnan.org",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "770-252-3344",
   "denomination": "Evangelical, Non-Denomination",
   "address_approx": false,
@@ -672,7 +640,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 43,
+  "church_id": 41,
   "name": "Faith & Grace Ministry International",
   "address": "433 Wallace Gray Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -688,7 +656,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 44,
+  "church_id": 42,
   "name": "Faith Creek United Methodist Church",
   "address": "Jackson Street, Newnan, GA 30265",
   "city": "Newnan",
@@ -704,15 +672,15 @@
   "source": "OpenStreetMap node/358689096"
  },
  {
-  "church_id": 45,
+  "church_id": 43,
   "name": "Faith Intl Christian Center",
   "address": "1294 Ga-34, Newnan, GA 30271",
   "city": "Newnan",
   "lat": 33.374817,
   "lng": -84.876556,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://ficcnewnan.net",
+  "website_verified": "area",
+  "website_check": "website names this church and a Coweta County town/ZIP",
   "phone": "770-251-4009",
   "denomination": "Christian, Other",
   "address_approx": false,
@@ -720,7 +688,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 46,
+  "church_id": 44,
   "name": "Fellowship Christian Center",
   "address": "415 Pete Davis Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -736,7 +704,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 47,
+  "church_id": 45,
   "name": "First Baptist Church",
   "address": "15 W Washington St, Newnan, GA 30263",
   "city": "Newnan",
@@ -752,7 +720,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010314221"
  },
  {
-  "church_id": 48,
+  "church_id": 46,
   "name": "First Christian Church",
   "address": "8 Elm St, Newnan, GA 30263",
   "city": "Newnan",
@@ -768,7 +736,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358757735"
  },
  {
-  "church_id": 49,
+  "church_id": 47,
   "name": "First Moreland Church",
   "address": "GA 54, Newnan, GA 30277",
   "city": "Newnan",
@@ -784,7 +752,7 @@
   "source": "OpenStreetMap node/358757739"
  },
  {
-  "church_id": 50,
+  "church_id": 48,
   "name": "Foundation Christian Church",
   "address": "6 Perry St, Newnan, GA 30263",
   "city": "Newnan",
@@ -800,7 +768,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 51,
+  "church_id": 49,
   "name": "Four Corners Church",
   "address": "1608 Highway 29 N, Newnan, GA 30263",
   "city": "Newnan",
@@ -816,7 +784,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 52,
+  "church_id": 50,
   "name": "Freeman Memorial Church",
   "address": "East Newnan Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -832,7 +800,7 @@
   "source": "OpenStreetMap way/1010317222"
  },
  {
-  "church_id": 53,
+  "church_id": 51,
   "name": "Friendship Baptist Church",
   "address": "Hamilton Bohannon Drive, Newnan, GA 30263",
   "city": "Newnan",
@@ -848,7 +816,7 @@
   "source": "OpenStreetMap way/1010313299"
  },
  {
-  "church_id": 54,
+  "church_id": 52,
   "name": "Go Church",
   "address": "GA 34, Newnan, GA 30277",
   "city": "Newnan",
@@ -864,7 +832,7 @@
   "source": "OpenStreetMap node/11049632389"
  },
  {
-  "church_id": 55,
+  "church_id": 53,
   "name": "Grace Baptist Church",
   "address": "1156 Highway 16 W, Newnan, GA 30263",
   "city": "Newnan",
@@ -880,7 +848,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358686265"
  },
  {
-  "church_id": 56,
+  "church_id": 54,
   "name": "Grace Community Fellowship Church",
   "address": "75 Roscoe Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -896,7 +864,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 57,
+  "church_id": 55,
   "name": "Greater Mt Calvary Baptist Church",
   "address": "245 Yeager Rd, Newnan, GA 30265",
   "city": "Newnan",
@@ -912,7 +880,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 58,
+  "church_id": 56,
   "name": "Greater Mt Zion Ame Church",
   "address": "12 Richard Allen Dr, Newnan, GA 30264",
   "city": "Newnan",
@@ -928,7 +896,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358757891"
  },
  {
-  "church_id": 59,
+  "church_id": 57,
   "name": "Griffin First Assembly Newnan",
   "address": "210 Jefferson Pkwy, Newnan, GA 30263",
   "city": "Newnan",
@@ -944,7 +912,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 60,
+  "church_id": 58,
   "name": "Happy Valley Baptist Church",
   "address": "1053 Buddy West Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -960,7 +928,23 @@
   "source": "christianity.com directory; OpenStreetMap node/358686904"
  },
  {
-  "church_id": 61,
+  "church_id": 59,
+  "name": "Harmony Church",
+  "address": "GA 16, Jade Lake Village, GA 30263",
+  "city": "Newnan",
+  "lat": 33.302063,
+  "lng": -84.594651,
+  "website": "",
+  "website_verified": "",
+  "website_check": "",
+  "phone": "",
+  "denomination": "",
+  "address_approx": true,
+  "location_note": "",
+  "source": "OpenStreetMap node/358687039"
+ },
+ {
+  "church_id": 60,
   "name": "Harvest Park Baptist Church",
   "address": "37 Frank Cook Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -976,15 +960,15 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 62,
+  "church_id": 61,
   "name": "Heatherwood Baptist Church",
   "address": "721 Shenandoah Blvd, Newnan, GA 30265",
   "city": "Newnan",
   "lat": 33.381022,
   "lng": -84.739772,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.heatherwood.church",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "770-304-0091",
   "denomination": "Baptist, Southern",
   "address_approx": false,
@@ -992,7 +976,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010304259"
  },
  {
-  "church_id": 63,
+  "church_id": 62,
   "name": "Holiness Church",
   "address": "Jefferson Street, Newnan, GA 30263",
   "city": "Newnan",
@@ -1008,15 +992,15 @@
   "source": "OpenStreetMap way/1010313358"
  },
  {
-  "church_id": 64,
+  "church_id": 63,
   "name": "Hope Christian Center",
   "address": "10 Forest Rd, Newnan, GA 30271",
   "city": "Newnan",
   "lat": 33.383769,
   "lng": -84.731443,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://hccnewnan.org",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "770-683-9565",
   "denomination": "Pent, Word Churches",
   "address_approx": false,
@@ -1024,7 +1008,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 65,
+  "church_id": 64,
   "name": "Jones Hill United Methodist Church",
   "address": "421 Walt Carmichael Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -1040,7 +1024,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010308784"
  },
  {
-  "church_id": 66,
+  "church_id": 65,
   "name": "Kingdom Hall of Jehovah’s Witnesse",
   "address": "530 Old Atlanta Highway, Newnan, GA 30263",
   "city": "Newnan",
@@ -1056,7 +1040,7 @@
   "source": "OpenStreetMap way/627189467"
  },
  {
-  "church_id": 67,
+  "church_id": 66,
   "name": "Korean Church of Newnan, U.M.C.",
   "address": "1237 Lora Smith Road, Newnan, GA 30265",
   "city": "Newnan",
@@ -1072,7 +1056,7 @@
   "source": "OpenStreetMap way/723267146"
  },
  {
-  "church_id": 68,
+  "church_id": 67,
   "name": "Liberty Christian Church",
   "address": "Macedonia Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -1088,7 +1072,7 @@
   "source": "OpenStreetMap way/1010307758"
  },
  {
-  "church_id": 69,
+  "church_id": 68,
   "name": "Life Changing Ministries",
   "address": "East Washington Street, Newnan, GA 30263",
   "city": "Newnan",
@@ -1104,23 +1088,23 @@
   "source": "OpenStreetMap node/2916753881"
  },
  {
-  "church_id": 70,
+  "church_id": 69,
   "name": "Line Creek Baptist Church",
-  "address": "Bob Smith Road, Newnan, GA 30277",
+  "address": "1488 Bob Smith Rd, Sharpsburg, GA 30277",
   "city": "Newnan",
-  "lat": 33.38419,
-  "lng": -84.651044,
+  "lat": 33.384642424348,
+  "lng": -84.649881671512,
   "website": "",
   "website_verified": "",
   "website_check": "",
   "phone": "",
   "denomination": "baptist",
-  "address_approx": true,
+  "address_approx": false,
   "location_note": "",
   "source": "OpenStreetMap way/1263573319"
  },
  {
-  "church_id": 71,
+  "church_id": 70,
   "name": "Lovejoy Memorial Methodist Church",
   "address": "East Washington Street, Newnan, GA 30263",
   "city": "Newnan",
@@ -1136,15 +1120,15 @@
   "source": "OpenStreetMap node/358761372"
  },
  {
-  "church_id": 72,
+  "church_id": 71,
   "name": "Macedonia Baptist Church",
   "address": "1504 Macedonia Rd, Newnan, GA 30263",
   "city": "Newnan",
   "lat": 33.445839,
   "lng": -84.820439,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://mbcnewnan.com",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "770-253-7222",
   "denomination": "Baptist, Southern",
   "address_approx": false,
@@ -1152,7 +1136,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010307746"
  },
  {
-  "church_id": 73,
+  "church_id": 72,
   "name": "Message of Truth",
   "address": "301 Jefferson St, Newnan, GA 30263",
   "city": "Newnan",
@@ -1168,7 +1152,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 74,
+  "church_id": 73,
   "name": "Mill Chapel Baptist Church",
   "address": "Cole Street, Newnan, GA 30263",
   "city": "Newnan",
@@ -1184,7 +1168,7 @@
   "source": "OpenStreetMap node/358757857"
  },
  {
-  "church_id": 75,
+  "church_id": 74,
   "name": "Mills Chapel Baptist Church",
   "address": "85 Country Club Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -1200,7 +1184,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010310165"
  },
  {
-  "church_id": 76,
+  "church_id": 75,
   "name": "Miracle Tabernacle",
   "address": "Corinth Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -1216,7 +1200,7 @@
   "source": "OpenStreetMap node/358761365"
  },
  {
-  "church_id": 77,
+  "church_id": 76,
   "name": "Morning Star Baptist Church",
   "address": "Elzie Johnson Road, Newnan, GA 30265",
   "city": "Newnan",
@@ -1232,7 +1216,7 @@
   "source": "OpenStreetMap node/358692960"
  },
  {
-  "church_id": 78,
+  "church_id": 77,
   "name": "Mount Carmel United Methodist Church",
   "address": "958 Summers Mckoy Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -1248,23 +1232,23 @@
   "source": "christianity.com directory; OpenStreetMap node/358693303"
  },
  {
-  "church_id": 79,
+  "church_id": 78,
   "name": "Mount Olive United Methodist Church",
-  "address": "Pate Road, Newnan, GA 30265",
+  "address": "1180 Poplar Rd, Newnan, GA 30265",
   "city": "Newnan",
-  "lat": 33.356428,
-  "lng": -84.741182,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "lat": 33.356153666955,
+  "lng": -84.741921971232,
+  "website": "https://mtoliveumcnewnan.churchtrac.com",
+  "website_verified": "area",
+  "website_check": "website names this church and a Coweta County town/ZIP",
   "phone": "",
   "denomination": "",
-  "address_approx": true,
+  "address_approx": false,
   "location_note": "",
   "source": "OpenStreetMap way/1010305562"
  },
  {
-  "church_id": 80,
+  "church_id": 79,
   "name": "Mount Vernon First Baptist Church",
   "address": "54 Pinson St, Newnan, GA 30263",
   "city": "Newnan",
@@ -1280,7 +1264,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358761356"
  },
  {
-  "church_id": 81,
+  "church_id": 80,
   "name": "Mount Zion Baptist Church",
   "address": "Old Carrollton Road, Newnan, GA 30275",
   "city": "Newnan",
@@ -1296,7 +1280,7 @@
   "source": "OpenStreetMap way/1010322843"
  },
  {
-  "church_id": 82,
+  "church_id": 81,
   "name": "Mount Zion Corinth Baptist Church",
   "address": "Coweta-Heard Road, Newnan, GA 30230",
   "city": "Newnan",
@@ -1312,7 +1296,7 @@
   "source": "OpenStreetMap node/358694600"
  },
  {
-  "church_id": 83,
+  "church_id": 82,
   "name": "Mt Sinai Missionary Baptist Church",
   "address": "6 Lovelace St, Newnan, GA 30264",
   "city": "Newnan",
@@ -1328,7 +1312,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358757887"
  },
  {
-  "church_id": 84,
+  "church_id": 83,
   "name": "New Beginning Faith Ministry",
   "address": "Oak Lawn Circle, Newnan, GA 30263",
   "city": "Newnan",
@@ -1344,7 +1328,7 @@
   "source": "OpenStreetMap way/1010317483"
  },
  {
-  "church_id": 85,
+  "church_id": 84,
   "name": "New Elim Church",
   "address": "Elim Church Road, Newnan, GA 30185",
   "city": "Newnan",
@@ -1360,7 +1344,7 @@
   "source": "OpenStreetMap node/358695226"
  },
  {
-  "church_id": 86,
+  "church_id": 85,
   "name": "New Heights Baptist Church",
   "address": "2063 Sharpsburg Mccullum Rd, Newnan, GA 30265",
   "city": "Newnan",
@@ -1376,7 +1360,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1279194254"
  },
  {
-  "church_id": 87,
+  "church_id": 86,
   "name": "New Hope Baptist Church",
   "address": "3989 Corinth Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -1389,26 +1373,10 @@
   "denomination": "Baptist, Southern",
   "address_approx": false,
   "location_note": "",
-  "source": "OpenStreetMap node/358695528; OpenStreetMap node/358695538; christianity.com directory"
+  "source": "OpenStreetMap node/358695528; OpenStreetMap node/358695538; christianity.com directory; OpenStreetMap node/358695535"
  },
  {
-  "church_id": 88,
-  "name": "New Hope Missionary Baptist Church",
-  "address": "Corinth Road, Newnan, GA 30263",
-  "city": "Newnan",
-  "lat": 33.285291,
-  "lng": -84.881359,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
-  "phone": "",
-  "denomination": "baptist",
-  "address_approx": true,
-  "location_note": "",
-  "source": "OpenStreetMap node/358695535"
- },
- {
-  "church_id": 89,
+  "church_id": 87,
   "name": "New Lebanon Baptist Church",
   "address": "1674 Wagers Mill Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -1421,26 +1389,10 @@
   "denomination": "Baptist, Southern",
   "address_approx": false,
   "location_note": "",
-  "source": "christianity.com directory; OpenStreetMap way/1344679371"
+  "source": "christianity.com directory; OpenStreetMap way/1344679371; OpenStreetMap way/1010323009"
  },
  {
-  "church_id": 90,
-  "name": "New Lebanon Baptist Church",
-  "address": "Dyer Road, Newnan, GA 30275",
-  "city": "Newnan",
-  "lat": 33.447697,
-  "lng": -84.906115,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
-  "phone": "",
-  "denomination": "baptist",
-  "address_approx": true,
-  "location_note": "",
-  "source": "OpenStreetMap way/1010323009"
- },
- {
-  "church_id": 91,
+  "church_id": 88,
   "name": "New Macedonia Baptist Church",
   "address": "Cedar Creek Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -1456,7 +1408,7 @@
   "source": "OpenStreetMap node/358695812"
  },
  {
-  "church_id": 92,
+  "church_id": 89,
   "name": "New Mount Calvary Church",
   "address": "Mount Calvary Church Road, Newnan, GA 30265",
   "city": "Newnan",
@@ -1472,7 +1424,7 @@
   "source": "OpenStreetMap node/358695825"
  },
  {
-  "church_id": 93,
+  "church_id": 90,
   "name": "Newnan Chapel United Methodist Church",
   "address": "72 Robinson St, Newnan, GA 30264",
   "city": "Newnan",
@@ -1488,7 +1440,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010314384"
  },
  {
-  "church_id": 94,
+  "church_id": 91,
   "name": "Newnan Church of Christ",
   "address": "2675 Highway 34 E, Newnan, GA 30265",
   "city": "Newnan",
@@ -1504,7 +1456,7 @@
   "source": "christianity.com directory; OpenStreetMap way/723267148"
  },
  {
-  "church_id": 95,
+  "church_id": 92,
   "name": "Newnan City Church",
   "address": "17 1St Ave, Newnan, GA 30263",
   "city": "Newnan",
@@ -1520,7 +1472,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010315595"
  },
  {
-  "church_id": 96,
+  "church_id": 93,
   "name": "Newnan First Sda Church",
   "address": "265 Yeager Rd, Newnan, GA 30264",
   "city": "Newnan",
@@ -1536,7 +1488,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 97,
+  "church_id": 94,
   "name": "Newnan First United Methodist Church",
   "address": "33 Greenville St, Newnan, GA 30263",
   "city": "Newnan",
@@ -1552,7 +1504,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358761380"
  },
  {
-  "church_id": 98,
+  "church_id": 95,
   "name": "Newnan Presbyterian Church",
   "address": "38 Greenville St S, Newnan, GA 30263",
   "city": "Newnan",
@@ -1568,15 +1520,15 @@
   "source": "christianity.com directory; OpenStreetMap node/358757742"
  },
  {
-  "church_id": 99,
+  "church_id": 96,
   "name": "Northside Baptist Church",
   "address": "Jackson Street, Newnan, GA 30265",
   "city": "Newnan",
   "lat": 33.445953,
   "lng": -84.730468,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.nbcnewnan.org",
+  "website_verified": "area",
+  "website_check": "website names this church and a Coweta County town/ZIP",
   "phone": "",
   "denomination": "baptist",
   "address_approx": true,
@@ -1584,7 +1536,7 @@
   "source": "OpenStreetMap way/1010298944"
  },
  {
-  "church_id": 100,
+  "church_id": 97,
   "name": "Oak Grove Baptist Church",
   "address": "Sewell Mill Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -1600,7 +1552,7 @@
   "source": "OpenStreetMap way/1010307142"
  },
  {
-  "church_id": 101,
+  "church_id": 98,
   "name": "Oak Lawn Baptist Church",
   "address": "482 Pine Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -1616,7 +1568,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 102,
+  "church_id": 99,
   "name": "Oaklawn Memorial Church",
   "address": "Pine Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -1632,7 +1584,7 @@
   "source": "OpenStreetMap way/1010317723"
  },
  {
-  "church_id": 103,
+  "church_id": 100,
   "name": "Old Mount Bethlehem Baptist Church",
   "address": "602 Old Corinth Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -1648,7 +1600,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1051647457"
  },
  {
-  "church_id": 104,
+  "church_id": 101,
   "name": "One Life Community Church",
   "address": "1 Dowdell St, Newnan, GA 30263",
   "city": "Newnan",
@@ -1664,7 +1616,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 105,
+  "church_id": 102,
   "name": "Peachtree Church",
   "address": "GA 34, Newnan, GA 30277",
   "city": "Newnan",
@@ -1680,7 +1632,7 @@
   "source": "OpenStreetMap node/358757948"
  },
  {
-  "church_id": 106,
+  "church_id": 103,
   "name": "Peachtree Hills Seventh-Day Adventist Church",
   "address": "171 Gordon Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -1696,7 +1648,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 107,
+  "church_id": 104,
   "name": "Pentecostal Church of God",
   "address": "Bullsboro Drive, Newnan, GA 30263",
   "city": "Newnan",
@@ -1712,7 +1664,7 @@
   "source": "OpenStreetMap way/900514381"
  },
  {
-  "church_id": 108,
+  "church_id": 105,
   "name": "Powell Chapel Methodist Church",
   "address": "Old Atlanta Highway, Newnan, GA 30263",
   "city": "Newnan",
@@ -1728,55 +1680,23 @@
   "source": "OpenStreetMap way/1010309728"
  },
  {
-  "church_id": 109,
+  "church_id": 106,
   "name": "Providence Baptist Church",
   "address": "918 Providence Church Rd, Newnan, GA 30263",
   "city": "Newnan",
   "lat": 33.385951,
   "lng": -84.894484,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://providencenewnan.org",
+  "website_verified": "area",
+  "website_check": "website names this church and a Coweta County town/ZIP",
   "phone": "770-502-8431",
   "denomination": "Baptist, Southern",
   "address_approx": false,
   "location_note": "",
-  "source": "christianity.com directory; OpenStreetMap node/358700082"
+  "source": "christianity.com directory; OpenStreetMap node/358700082; OpenStreetMap node/358700078"
  },
  {
-  "church_id": 110,
-  "name": "Providence Baptist Church",
-  "address": "Summers McKoy Road, Newnan, GA 30263",
-  "city": "Newnan",
-  "lat": 33.380763,
-  "lng": -84.917614,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
-  "phone": "",
-  "denomination": "baptist",
-  "address_approx": true,
-  "location_note": "",
-  "source": "OpenStreetMap node/358700078"
- },
- {
-  "church_id": 111,
-  "name": "Resurrection Lutheran Church",
-  "address": "1250 Lora Smith Rd, Newnan, GA 30265",
-  "city": "Newnan",
-  "lat": 33.374475,
-  "lng": -84.702747,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
-  "phone": "770-254-8833",
-  "denomination": "Lutheran, Evangelical",
-  "address_approx": false,
-  "location_note": "",
-  "source": "christianity.com directory"
- },
- {
-  "church_id": 112,
+  "church_id": 107,
   "name": "Resurrection Lutheran Church",
   "address": "1250 Lora Smith Road, Newnan, GA 30265",
   "city": "Newnan",
@@ -1792,7 +1712,7 @@
   "source": "OpenStreetMap way/699121168"
  },
  {
-  "church_id": 113,
+  "church_id": 108,
   "name": "Russell Temple Ame Church",
   "address": "155 Westside School Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -1808,7 +1728,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 114,
+  "church_id": 109,
   "name": "Saint George Catholic Church",
   "address": "771 Roscoe Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -1824,7 +1744,7 @@
   "source": "OpenStreetMap way/1010309967"
  },
  {
-  "church_id": 115,
+  "church_id": 110,
   "name": "Saint George Catholic Church",
   "address": "Jackson Street, Newnan, GA 30265",
   "city": "Newnan",
@@ -1840,7 +1760,7 @@
   "source": "OpenStreetMap way/1010314183"
  },
  {
-  "church_id": 116,
+  "church_id": 111,
   "name": "Saint John Baptist Church",
   "address": "Saint John Circle, Newnan, GA 30264",
   "city": "Newnan",
@@ -1856,15 +1776,15 @@
   "source": "OpenStreetMap way/900471002"
  },
  {
-  "church_id": 117,
+  "church_id": 112,
   "name": "Saint Mary Magdalene Catholic Church",
   "address": "3 Village Road, Newnan, GA 30265",
   "city": "Newnan",
   "lat": 33.386667,
   "lng": -84.667172,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.smmcatholic.org",
+  "website_verified": "listed",
+  "website_check": "listed for this parish by several Catholic directories (site blocks automated checks)",
   "phone": "",
   "denomination": "roman_catholic",
   "address_approx": false,
@@ -1872,7 +1792,7 @@
   "source": "OpenStreetMap way/1423180624"
  },
  {
-  "church_id": 118,
+  "church_id": 113,
   "name": "Saint Smyrna Church",
   "address": "Smokey Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -1888,7 +1808,7 @@
   "source": "OpenStreetMap node/358702559"
  },
  {
-  "church_id": 119,
+  "church_id": 114,
   "name": "Scotts Chapel",
   "address": "Lamb Road, Newnan, GA 30259",
   "city": "Newnan",
@@ -1904,7 +1824,7 @@
   "source": "OpenStreetMap node/358703159"
  },
  {
-  "church_id": 120,
+  "church_id": 115,
   "name": "Shady Grove Baptist Church",
   "address": "1050 Welcome To Sargent Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -1920,7 +1840,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010322060"
  },
  {
-  "church_id": 121,
+  "church_id": 116,
   "name": "Smith Chapel United Methodist Church",
   "address": "Lazenby Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -1936,15 +1856,15 @@
   "source": "OpenStreetMap way/1010321192"
  },
  {
-  "church_id": 122,
+  "church_id": 117,
   "name": "Solid Rock Baptist Church",
   "address": "2677 Highway 34 W, Newnan, GA 30263",
   "city": "Newnan",
   "lat": 33.354296,
   "lng": -84.912771,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.srbcnewnan.com",
+  "website_verified": "area",
+  "website_check": "website names this church and a Coweta County town/ZIP",
   "phone": "",
   "denomination": "Methodist, United",
   "address_approx": false,
@@ -1952,7 +1872,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1014965161"
  },
  {
-  "church_id": 123,
+  "church_id": 118,
   "name": "Solid Rock Fellowship Church of God In Christ",
   "address": "590 Herring Rd, Newnan, GA 30265",
   "city": "Newnan",
@@ -1968,7 +1888,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 124,
+  "church_id": 119,
   "name": "Sonrise Baptist Church",
   "address": "6 Shenandoah Blvd, Newnan, GA 30265",
   "city": "Newnan",
@@ -1984,7 +1904,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 125,
+  "church_id": 120,
   "name": "Southside Church",
   "address": "Northcrest Drive, Newnan, GA 30265",
   "city": "Newnan",
@@ -2000,7 +1920,7 @@
   "source": "OpenStreetMap node/4085179552"
  },
  {
-  "church_id": 126,
+  "church_id": 121,
   "name": "Southwest Christian Church",
   "address": "3836 Us Hwy 29, Newnan, GA 30265",
   "city": "Newnan",
@@ -2016,7 +1936,7 @@
   "source": "OpenStreetMap way/1010298703"
  },
  {
-  "church_id": 127,
+  "church_id": 122,
   "name": "St Paul's Episcopal Church",
   "address": "576 Roscoe Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -2032,7 +1952,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010310005"
  },
  {
-  "church_id": 128,
+  "church_id": 123,
   "name": "St Smyrna Baptist Church",
   "address": "68 Heery Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -2048,7 +1968,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 129,
+  "church_id": 124,
   "name": "Summer Hill Baptist Church",
   "address": "South US 29, Newnan, GA 30263",
   "city": "Newnan",
@@ -2064,7 +1984,7 @@
   "source": "OpenStreetMap way/391118152"
  },
  {
-  "church_id": 130,
+  "church_id": 125,
   "name": "Sunnyside Baptist Church",
   "address": "255 Greenville St, Newnan, GA 30263",
   "city": "Newnan",
@@ -2080,7 +2000,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010315933"
  },
  {
-  "church_id": 131,
+  "church_id": 126,
   "name": "Suwannee Church",
   "address": "Ishman Ballard Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -2096,7 +2016,7 @@
   "source": "OpenStreetMap way/1010320139"
  },
  {
-  "church_id": 132,
+  "church_id": 127,
   "name": "Tabernacle of Prayer",
   "address": "73 Sprayberry Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -2112,7 +2032,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 133,
+  "church_id": 128,
   "name": "The Church of God of the Union Assembly",
   "address": "3821 Highway 34 W, Newnan, GA 30263",
   "city": "Newnan",
@@ -2128,7 +2048,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 134,
+  "church_id": 129,
   "name": "The Church of Jesus Christ of Latter-day Saints",
   "address": "Old Atlanta Highway, Newnan, GA 30263",
   "city": "Newnan",
@@ -2144,7 +2064,7 @@
   "source": "OpenStreetMap way/1010310039"
  },
  {
-  "church_id": 135,
+  "church_id": 130,
   "name": "Trinity Church",
   "address": "Franklin Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -2160,15 +2080,15 @@
   "source": "OpenStreetMap node/358758061"
  },
  {
-  "church_id": 136,
+  "church_id": 131,
   "name": "Unity Baptist Church",
   "address": "311 Smokey Rd, Newnan, GA 30263",
   "city": "Newnan",
   "lat": 33.36184,
   "lng": -84.822197,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://ubcnewnan.com",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "770-253-2483",
   "denomination": "Baptist, Southern",
   "address_approx": false,
@@ -2176,7 +2096,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010316246"
  },
  {
-  "church_id": 137,
+  "church_id": 132,
   "name": "Wadley Chapel UMC",
   "address": "Coweta-Heard Road, Newnan, GA 30230",
   "city": "Newnan",
@@ -2192,15 +2112,15 @@
   "source": "OpenStreetMap node/358707831"
  },
  {
-  "church_id": 138,
+  "church_id": 133,
   "name": "Welcome Road Baptist Church",
   "address": "163 Welcome Rd, Newnan, GA 30263",
   "city": "Newnan",
   "lat": 33.386384,
   "lng": -84.843797,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.wrbcnewnan.com",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "770-253-8380",
   "denomination": "Baptist, Other",
   "address_approx": false,
@@ -2208,7 +2128,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 139,
+  "church_id": 134,
   "name": "Wesley Chapel AME Church",
   "address": "Happy Valley Circle, Newnan, GA 30263",
   "city": "Newnan",
@@ -2224,7 +2144,7 @@
   "source": "OpenStreetMap node/358708439"
  },
  {
-  "church_id": 140,
+  "church_id": 135,
   "name": "Wesley Chapel Church",
   "address": "2563 Smokey Rd, Newnan, GA 30263",
   "city": "Newnan",
@@ -2240,7 +2160,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010319516"
  },
  {
-  "church_id": 141,
+  "church_id": 136,
   "name": "West Bethel Church",
   "address": "Quarry Road, Newnan, GA 30275",
   "city": "Newnan",
@@ -2256,7 +2176,7 @@
   "source": "OpenStreetMap node/358758073"
  },
  {
-  "church_id": 142,
+  "church_id": 137,
   "name": "West Newnan Church",
   "address": "Glover Road, Newnan, GA 30275",
   "city": "Newnan",
@@ -2272,7 +2192,7 @@
   "source": "OpenStreetMap node/358708519"
  },
  {
-  "church_id": 143,
+  "church_id": 138,
   "name": "West Side Church",
   "address": "Smokey Road, Newnan, GA 30263",
   "city": "Newnan",
@@ -2288,7 +2208,7 @@
   "source": "OpenStreetMap node/358761329"
  },
  {
-  "church_id": 144,
+  "church_id": 139,
   "name": "Westside Baptist Church",
   "address": "762 Smokey Rd, Newnan, GA 30271",
   "city": "Newnan",
@@ -2304,7 +2224,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 145,
+  "church_id": 140,
   "name": "White Oak First Baptist Church",
   "address": "2078 Highway 34 E, Newnan, GA 30265",
   "city": "Newnan",
@@ -2320,15 +2240,15 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 146,
+  "church_id": 141,
   "name": "Zion Hill Baptist Church",
   "address": "87 Pinson St, Newnan, GA 30263",
   "city": "Newnan",
   "lat": 33.367348,
   "lng": -84.791771,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://zhbcnewnan.org",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "770-253-1298",
   "denomination": "Baptist, Other",
   "address_approx": false,
@@ -2336,7 +2256,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1010315997"
  },
  {
-  "church_id": 147,
+  "church_id": 142,
   "name": "Fellowship Baptist Chapel",
   "address": "1188 Tommy Lee Cook Rd, Palmetto, GA 30268",
   "city": "Palmetto",
@@ -2352,7 +2272,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 148,
+  "church_id": 143,
   "name": "Living Faith Tabernacle Palmetto",
   "address": "5936 N Highway 29, Palmetto, GA 30268",
   "city": "Palmetto",
@@ -2368,7 +2288,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 149,
+  "church_id": 144,
   "name": "Palmetto Baptist Church",
   "address": "6344 N Highway 29, Palmetto, GA 30268",
   "city": "Palmetto",
@@ -2384,12 +2304,12 @@
   "source": "OpenStreetMap way/1051659406; christianity.com directory"
  },
  {
-  "church_id": 150,
+  "church_id": 145,
   "name": "Sargent Baptist Church",
-  "address": "PO Box 189, Sargent, GA 30275",
+  "address": "467 Sargent Main St, Newnan, GA 30263",
   "city": "Sargent",
-  "lat": 33.433474,
-  "lng": -84.869619,
+  "lat": 33.434652394882,
+  "lng": -84.870877957827,
   "website": "",
   "website_verified": "",
   "website_check": "",
@@ -2400,7 +2320,23 @@
   "source": "christianity.com directory; OpenStreetMap way/1010321502"
  },
  {
-  "church_id": 151,
+  "church_id": 146,
+  "name": "First Baptist Church",
+  "address": "41 Johnson St, Senoia, GA 30276",
+  "city": "Senoia",
+  "lat": 33.302587,
+  "lng": -84.555515,
+  "website": "https://www.fbcsenoia.org",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
+  "phone": "",
+  "denomination": "Baptist",
+  "address_approx": false,
+  "location_note": "",
+  "source": "web search (local news + church directories)"
+ },
+ {
+  "church_id": 147,
   "name": "First White Oak Grove Baptist Church",
   "address": "3816 Gordon Rd, Senoia, GA 30276",
   "city": "Senoia",
@@ -2416,7 +2352,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358708812"
  },
  {
-  "church_id": 152,
+  "church_id": 148,
   "name": "Greater Pineview Pure Holiness Church",
   "address": "118 Chestlehurst Rd, Senoia, GA 30276",
   "city": "Senoia",
@@ -2432,15 +2368,15 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 153,
+  "church_id": 149,
   "name": "Legacy Christian Church",
   "address": "1150 Rockaway Rd, Senoia, GA 30276",
   "city": "Senoia",
   "lat": 33.326876,
   "lng": -84.542595,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://legacysenoia.org",
+  "website_verified": "area",
+  "website_check": "website names this church and a Coweta County town/ZIP",
   "phone": "770-599-3366",
   "denomination": "Christian, Other",
   "address_approx": false,
@@ -2448,15 +2384,15 @@
   "source": "christianity.com directory; OpenStreetMap way/1480947651"
  },
  {
-  "church_id": 154,
+  "church_id": 150,
   "name": "New Beginning Baptist Church",
   "address": "973 Standing Rock Rd, Senoia, GA 30276",
   "city": "Senoia",
   "lat": 33.312383,
   "lng": -84.584655,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.nbbcsenoia.com",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "770-599-8071",
   "denomination": "Baptist, Southern",
   "address_approx": false,
@@ -2464,7 +2400,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 155,
+  "church_id": 151,
   "name": "Oak Grove Baptist Church",
   "address": "41 Seavy St, Senoia, GA 30276",
   "city": "Senoia",
@@ -2480,15 +2416,15 @@
   "source": "christianity.com directory; OpenStreetMap way/1182942760"
  },
  {
-  "church_id": 156,
+  "church_id": 152,
   "name": "Open Door Baptist Church",
   "address": "7364 Highway 16, Senoia, GA 30276",
   "city": "Senoia",
   "lat": 33.294008,
   "lng": -84.569095,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.opendoorsenoia.com",
+  "website_verified": "area",
+  "website_check": "website names this church and a Coweta County town/ZIP",
   "phone": "678-633-7564",
   "denomination": "Baptist, Southern",
   "address_approx": false,
@@ -2496,7 +2432,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358757945"
  },
  {
-  "church_id": 157,
+  "church_id": 153,
   "name": "Sasser Grove Baptist Church",
   "address": "100 Carl Williams Rd, Senoia, GA 30276",
   "city": "Senoia",
@@ -2512,7 +2448,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358703059"
  },
  {
-  "church_id": 158,
+  "church_id": 154,
   "name": "Senoia United Methodist Church",
   "address": "229 Bridge St, Senoia, GA 30276",
   "city": "Senoia",
@@ -2528,15 +2464,15 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 159,
+  "church_id": 155,
   "name": "Sovereign Hope Church",
   "address": "7280 Highway 16, Senoia, GA 30276",
   "city": "Senoia",
   "lat": 33.293696,
   "lng": -84.571059,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://adam-vinson.squarespace.com",
+  "website_verified": "area",
+  "website_check": "website names this church and a Coweta County town/ZIP",
   "phone": "678-723-5742",
   "denomination": "Baptist, Other",
   "address_approx": false,
@@ -2544,7 +2480,23 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 160,
+  "church_id": 156,
+  "name": "White Oak ARP Church",
+  "address": "2796 Gordon Rd, Senoia, GA 30276",
+  "city": "Senoia",
+  "lat": 33.28345,
+  "lng": -84.702695,
+  "website": "https://www.whiteoakarp.org",
+  "website_verified": "area",
+  "website_check": "website names this church and a Coweta County town/ZIP",
+  "phone": "770-253-7904",
+  "denomination": "Presbyterian, Assoc Reformed",
+  "address_approx": false,
+  "location_note": "",
+  "source": "christianity.com directory; OpenStreetMap node/358708805"
+ },
+ {
+  "church_id": 157,
   "name": "White Oak Grove Baptist Church",
   "address": "4619 Gordon Rd, Senoia, GA 30276",
   "city": "Senoia",
@@ -2560,23 +2512,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358757918"
  },
  {
-  "church_id": 161,
-  "name": "White Oak Presbyterian Church Associate Reformed P",
-  "address": "2796 Gordon Rd, Senoia, GA 30276",
-  "city": "Senoia",
-  "lat": 33.28345,
-  "lng": -84.702695,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
-  "phone": "770-253-7904",
-  "denomination": "Presbyterian, Assoc Reformed",
-  "address_approx": false,
-  "location_note": "",
-  "source": "christianity.com directory; OpenStreetMap node/358708805"
- },
- {
-  "church_id": 162,
+  "church_id": 158,
   "name": "Cokes Chapel United Methodist Church",
   "address": "4096 Lower Fayetteville Rd, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2592,15 +2528,15 @@
   "source": "christianity.com directory; OpenStreetMap way/1205888905"
  },
  {
-  "church_id": 163,
+  "church_id": 159,
   "name": "Community Christian Church",
   "address": "1717 Highway 154, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
   "lat": 33.379864,
   "lng": -84.669589,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.community-christian.net",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "770-251-9516",
   "denomination": "Christian, Church of Christ",
   "address_approx": false,
@@ -2608,7 +2544,7 @@
   "source": "christianity.com directory; OpenStreetMap way/34843523"
  },
  {
-  "church_id": 164,
+  "church_id": 160,
   "name": "Faith Bible Church",
   "address": "4907 Highway 34 E, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2624,15 +2560,15 @@
   "source": "christianity.com directory; OpenStreetMap way/1078271747"
  },
  {
-  "church_id": 165,
+  "church_id": 161,
   "name": "Faith Lutheran Church",
   "address": "575 Fischer Rd, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
   "lat": 33.406738,
   "lng": -84.62354,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.georgiafaith.com",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "770-253-4007",
   "denomination": "Lutheran, Other",
   "address_approx": false,
@@ -2640,15 +2576,15 @@
   "source": "christianity.com directory; OpenStreetMap way/925616398"
  },
  {
-  "church_id": 166,
+  "church_id": 162,
   "name": "Forward Church",
   "address": "3500 Highway 34 E Ste 15, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
   "lat": 33.406008,
   "lng": -84.666633,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://forward.church",
+  "website_verified": "area",
+  "website_check": "website names this church and a Coweta County town/ZIP",
   "phone": "770-824-3434",
   "denomination": "Unknown Denominations",
   "address_approx": false,
@@ -2656,7 +2592,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 167,
+  "church_id": 163,
   "name": "Grace Baptist Church",
   "address": "825 Ebenezer Church Rd, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2672,7 +2608,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1279194263"
  },
  {
-  "church_id": 168,
+  "church_id": 164,
   "name": "Hope Memorial Baptist Church",
   "address": "2312 Fischer Rd, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2688,7 +2624,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358687957"
  },
  {
-  "church_id": 169,
+  "church_id": 165,
   "name": "Liberty Hill Ame Church",
   "address": "201 Minix Rd, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2704,7 +2640,7 @@
   "source": "christianity.com directory; OpenStreetMap way/1017449502"
  },
  {
-  "church_id": 170,
+  "church_id": 166,
   "name": "Mt Gilead United Methodist Church",
   "address": "2651 Highway 16 E, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2720,7 +2656,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358693450"
  },
  {
-  "church_id": 171,
+  "church_id": 167,
   "name": "New Gate Church",
   "address": "142 Cannon Rd, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2736,7 +2672,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 172,
+  "church_id": 168,
   "name": "Realchurch Coweta",
   "address": "3613 Highway 34 E, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2752,15 +2688,15 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 173,
+  "church_id": 169,
   "name": "Rock Springs Baptist Church",
   "address": "2405 Fischer Rd, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
   "lat": 33.447439,
   "lng": -84.656748,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.rsbcsharpsburg.com",
+  "website_verified": "address",
+  "website_check": "website shows this church's street address",
   "phone": "470-347-4864",
   "denomination": "Baptist, Southern",
   "address_approx": false,
@@ -2768,7 +2704,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358701146"
  },
  {
-  "church_id": 174,
+  "church_id": 170,
   "name": "Sharpsburg Baptist Church",
   "address": "6413 State Rte 54, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2784,7 +2720,7 @@
   "source": "christianity.com directory; OpenStreetMap node/358758027"
  },
  {
-  "church_id": 175,
+  "church_id": 171,
   "name": "Sharpsburg Church of the Nazarene",
   "address": "4757 Highway 34 E, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2800,7 +2736,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 176,
+  "church_id": 172,
   "name": "The Cathedral of Christ the King",
   "address": "4881 Highway 34 E, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2816,7 +2752,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 177,
+  "church_id": 173,
   "name": "Tri-County Baptist Church",
   "address": "5445 GA-16, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2832,7 +2768,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 178,
+  "church_id": 174,
   "name": "Trinity Fellowship Church",
   "address": "8817 Highway 54, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
@@ -2848,15 +2784,15 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 179,
+  "church_id": 175,
   "name": "Word of God Lutheran Church",
   "address": "4486 Highway 34 E, Sharpsburg, GA 30277",
   "city": "Sharpsburg",
   "lat": 33.402416,
   "lng": -84.642475,
-  "website": "",
-  "website_verified": "",
-  "website_check": "",
+  "website": "https://www.woglutheran.org",
+  "website_verified": "area",
+  "website_check": "website names this church and a Coweta County town/ZIP",
   "phone": "770-897-4508",
   "denomination": "Lutheran, Other",
   "address_approx": false,
@@ -2864,7 +2800,7 @@
   "source": "christianity.com directory; OpenStreetMap way/877954971"
  },
  {
-  "church_id": 180,
+  "church_id": 176,
   "name": "China Grove Community Church",
   "address": "45 China Grove St, Turin, GA 30289",
   "city": "Turin",
@@ -2880,7 +2816,7 @@
   "source": "christianity.com directory"
  },
  {
-  "church_id": 181,
+  "church_id": 177,
   "name": "Turin Baptist Church",
   "address": "PO Box 99, Turin, GA 30289",
   "city": "Turin",
@@ -2896,7 +2832,7 @@
   "source": "christianity.com directory; OpenStreetMap node/12160547375"
  },
  {
-  "church_id": 182,
+  "church_id": 178,
   "name": "Turin Methodist Church",
   "address": "20 Longstreet Ave, Turin, GA 30289",
   "city": "Turin",
