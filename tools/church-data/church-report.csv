@@ -1,0 +1,183 @@
+church_id,name,address,city,lat,lng,website,website_verified,phone,denomination,address_approx,source
+1,Change Church,"45 W Broad St, Grantville, GA 30220",Grantville,33.233786,-84.83566,,,,"Baptist, Southern",False,christianity.com directory
+2,Greater Jehovah Baptist Church,"2 Roger Arnold Rd, Grantville, GA 30220",Grantville,33.237571,-84.827827,https://greaterjehovahbaptistchurch.org,area,770-583-2521,"Baptist, Other",False,christianity.com directory
+3,Mount Guillard Church,"Bohannon Road, Grantville, GA 30263",Grantville,33.278881,-84.879024,,,,,True,OpenStreetMap node/358693467
+4,St Paul Cme Church,"463 Sewell Rd, Grantville, GA 30220",Grantville,33.214959,-84.861119,,,706-637-9455,"Methodist, Other",False,christianity.com directory
+5,First Baptist Church,"224 Magnolia St, Haralson, GA 30229",Haralson,33.228563,-84.566945,https://www.fbcharalson.org,address,770-599-6460,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358757771
+6,Haralson United Methodist Church,"41 Highway 85, Haralson, GA 30229",Haralson,33.224828,-84.573596,https://www.haralsonumc.com,area,770-599-9100,"Methodist, United",False,christianity.com directory; OpenStreetMap node/358757780
+7,Mt. Pilgrim Lutheran Church,"GA 74;GA 85, Haralson, GA 30229",Haralson,33.224761,-84.572719,,,,lutheran,True,OpenStreetMap node/12149256488
+8,Pleasant Hill Baptist Church,"Gordon Road, Haralson, GA 30263",Haralson,33.249472,-84.614815,,,,,True,OpenStreetMap node/358699384
+9,Harmony Church,"GA 16, Jade Lake Village, GA 30263",Newnan,33.302063,-84.594651,,,,,True,OpenStreetMap node/358687039
+10,Calvary Baptist Church,"Martin Mill Road, Moreland, GA 30263",Moreland,33.324342,-84.717685,,,,baptist,True,OpenStreetMap way/1010306829
+11,First Baptist Church,"2930 S Highway 29, Moreland, GA 30259",Moreland,33.286644,-84.767112,https://fbcmoreland.org,area,770-253-3535,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/10925220990
+12,Gordon Road Church of Christ,"1211 Gordon Rd, Moreland, GA 30259",Moreland,33.307618,-84.741322,,,770-502-1261,"Christian, Coc Acapella",False,christianity.com directory; OpenStreetMap node/358686224
+13,Moreland United Methodist Church,"16 Church St, Moreland, GA 30259",Moreland,33.286367,-84.768474,https://www.morelandumc.com,address,770-253-0460,"Methodist, United",False,christianity.com directory; OpenStreetMap node/10925220991
+14,Mount Prospect Baptist Church,"Bethlehem Church Road, Moreland, GA 30259",Moreland,33.28386,-84.779881,,,,baptist,True,OpenStreetMap node/358694177
+15,Rehoboth Baptist Church- Main Campus,"240 Bexton Rd, Moreland, GA 30259",Moreland,33.265675,-84.7541,,,770-755-7222,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358761387
+16,Southside Baptist Church,"321 Cline Rd, Moreland, GA 30259",Moreland,33.275909,-84.797744,,,470-645-3345,"Baptist, Other",False,christianity.com directory
+17,Andrews Chapel United Methodist Church,"4301 Roscoe Rd, Newnan, GA 30263",Newnan,33.499788,-84.811431,,,678-633-0259,"Methodist, United",False,christianity.com directory; OpenStreetMap way/1010307029
+18,Arnco Baptist Church,"81 Arnco 3Rd St, Newnan, GA 30263",Newnan,33.413448,-84.852159,,,470-414-1010,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358679629
+19,Bethel United Methodist Church,"Luther Bailey Road, Newnan, GA 30276",Newnan,33.255863,-84.60683,,,,methodist,True,OpenStreetMap node/358757639
+20,Bethlehem Baptist Church,"2194 W Grantville Rd, Newnan, GA 30263",Newnan,33.291993,-84.829911,,,678-590-8143,"Baptist, Southern",False,christianity.com directory; OpenStreetMap way/1206119009
+21,Beulah Baptist Church,"936 Turkey Creek Rd, Newnan, GA 30263",Newnan,33.349561,-84.755489,,,770-304-0540,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358761406
+22,Burns Chapel Methodist Episcopal Church,"Lovelace Street, Newnan, GA 30263",Newnan,33.375285,-84.813654,,,,methodist,True,OpenStreetMap way/1010312558
+23,By Faith Ministries,"Johnson Road, Newnan, GA 30277",Newnan,33.273056,-84.650431,,,,,True,OpenStreetMap node/12400549024
+24,Calvary Baptist Church,"2736 Martin Hill Rd, Newnan, GA 30264",Newnan,33.258319,-84.696386,,,404-788-8753,"Baptist, Other",False,christianity.com directory; OpenStreetMap node/358693224
+25,Calvary Chapel Newnan,"210 Jefferson Pkwy, Newnan, GA 30264",Newnan,33.399261,-84.770048,,,470-400-8104,"Charismatic, Calvary Chapel",False,christianity.com directory
+26,Cedar Creek Church,"Sewell Mill Road, Newnan, GA 30263",Newnan,33.477701,-84.840382,,,,,True,OpenStreetMap node/358682381
+27,Central Baptist Church,"14 W Broad St, Newnan, GA 30263",Newnan,33.374493,-84.801627,https://centralbaptistnewnan.org,area,770-683-0610,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358761410
+28,Christ Presbyterian Church,"2331 Us Hwy 29, Newnan, GA 30265",Newnan,33.436708,-84.749945,https://cpcnewnan.com,area,,presbyterian,False,OpenStreetMap way/1010309937
+29,Christian Families Today,"Ashley Park Boulevard, Newnan, GA 30264",Newnan,33.387673,-84.768958,,,,,True,OpenStreetMap way/1010304443
+30,Cornerstone United Methodist Church,"2956 Sharpsburg Mccullum Rd, Newnan, GA 30265",Newnan,33.409734,-84.683997,,,678-552-9124,"Methodist, United",False,christianity.com directory; OpenStreetMap way/723278682
+31,Coweta Community Church,"310 Millard Farmer Ind Blvd, Newnan, GA 30263",Newnan,33.397081,-84.80427,,,770-599-5067,"Christian, Other",False,christianity.com directory; OpenStreetMap way/1010311834
+32,Crosspoint Community Church,"1091 Posey Rd, Newnan, GA 30265",Newnan,33.432341,-84.710829,,,770-251-9444,"Evangelical, Community",False,christianity.com directory
+33,Crossroads Church,"2564 Sharpsburg Mccullum Rd, Newnan, GA 30265",Newnan,33.400487,-84.683708,https://www.crossroadsonline.org,area,770-254-0291,"Baptist, Southern",False,christianity.com directory; OpenStreetMap way/1279112961
+34,Dent Chapel Methodist Church,"Franklin Road, Newnan, GA 30263",Newnan,33.345074,-84.941468,,,,methodist,True,OpenStreetMap node/358769732
+35,East Newnan Baptist Church,"14 Pearl Springs Trl, Newnan, GA 30263",Newnan,33.49155,-84.842243,,,770-253-0550,"Baptist, Southern",False,christianity.com directory
+36,East Newnan Baptist Church,"14 Pearl Springs Trail, Newnan, GA 30263",Newnan,33.332122,-84.777862,,,,southern_baptist,False,OpenStreetMap way/1010318076
+37,Eastside Church of God,"20 Walters Ln, Sharpsburg, GA 30277",Newnan,33.393038,-84.658773,,,,,False,OpenStreetMap way/1078315044; christianity.com directory (listed as Eastside Church of Christ)
+38,Eastwood Church,"GA 34, Newnan, GA 30277",Newnan,33.40456,-84.712988,,,,,True,OpenStreetMap node/358757697
+39,Elim Baptist Church,"1529 Handy Rd, Newnan, GA 30263",Newnan,33.376053,-84.965185,,,770-253-2322,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358770126
+40,Emanuel Church,"Cline Road, Newnan, GA 30259",Newnan,33.27449,-84.798371,,,,,True,OpenStreetMap node/358685079
+41,Emmanuel Baptist Church,"3911 Sharpsburg Mccullum Rd, Newnan, GA 30265",Newnan,33.435894,-84.69164,,,770-304-2659,"Baptist, Other",False,christianity.com directory
+42,Emmanuel Life & Worship Center,"102 E Freeman St, Newnan, GA 30263",Newnan,33.352316,-84.7783,,,770-252-3344,"Evangelical, Non-Denomination",False,christianity.com directory
+43,Faith & Grace Ministry International,"433 Wallace Gray Rd, Newnan, GA 30263",Newnan,33.372875,-84.84186,,,770-251-4090,"Pent, Other",False,christianity.com directory
+44,Faith Creek United Methodist Church,"Jackson Street, Newnan, GA 30265",Newnan,33.434882,-84.751158,,,,methodist,True,OpenStreetMap node/358689096
+45,Faith Intl Christian Center,"1294 Ga-34, Newnan, GA 30271",Newnan,33.374817,-84.876556,,,770-251-4009,"Christian, Other",False,christianity.com directory
+46,Fellowship Christian Center,"415 Pete Davis Rd, Newnan, GA 30263",Newnan,33.362864,-84.873846,,,770-251-3775,"Baptist, Other",False,christianity.com directory
+47,First Baptist Church,"15 W Washington St, Newnan, GA 30263",Newnan,33.375695,-84.802035,https://www.fbcnewnan.org,address,770-253-0797,"Baptist, Southern",False,christianity.com directory; OpenStreetMap way/1010314221
+48,First Christian Church,"8 Elm St, Newnan, GA 30263",Newnan,33.383449,-84.800213,,,770-253-1772,"Christian, Other",False,christianity.com directory; OpenStreetMap node/358757735
+49,First Moreland Church,"GA 54, Newnan, GA 30277",Newnan,33.263175,-84.719932,,,,,True,OpenStreetMap node/358757739
+50,Foundation Christian Church,"6 Perry St, Newnan, GA 30263",Newnan,33.376371,-84.798254,,,470-661-6330,"Christian, Other",False,christianity.com directory
+51,Four Corners Church,"1608 Highway 29 N, Newnan, GA 30263",Newnan,33.422734,-84.769069,https://fourcornersnewnan.org,area,470-548-6753,"Christian, Other",False,christianity.com directory
+52,Freeman Memorial Church,"East Newnan Road, Newnan, GA 30263",Newnan,33.355548,-84.776405,,,,,True,OpenStreetMap way/1010317222
+53,Friendship Baptist Church,"Hamilton Bohannon Drive, Newnan, GA 30263",Newnan,33.377112,-84.812786,,,,baptist,True,OpenStreetMap way/1010313299
+54,Go Church,"GA 34, Newnan, GA 30277",Newnan,33.398935,-84.659872,,,,,True,OpenStreetMap node/11049632389
+55,Grace Baptist Church,"1156 Highway 16 W, Newnan, GA 30263",Newnan,33.412615,-84.844103,,,770-357-7108,"Baptist, Other",False,christianity.com directory; OpenStreetMap node/358686265
+56,Grace Community Fellowship Church,"75 Roscoe Rd, Newnan, GA 30263",Newnan,33.396384,-84.804198,https://www.sermonaudio.com/broadcasters/gracenewnan/,area,770-253-1213,"Evangelical, Community",False,christianity.com directory
+57,Greater Mt Calvary Baptist Church,"245 Yeager Rd, Newnan, GA 30265",Newnan,33.351954,-84.739923,,,678-423-9782,"Baptist, Southern",False,christianity.com directory
+58,Greater Mt Zion Ame Church,"12 Richard Allen Dr, Newnan, GA 30264",Newnan,33.377338,-84.807991,,,770-683-4691,"Methodist, African Episcopal",False,christianity.com directory; OpenStreetMap node/358757891
+59,Griffin First Assembly Newnan,"210 Jefferson Pkwy, Newnan, GA 30263",Newnan,33.399261,-84.770048,,,678-633-5995,Unknown Denominations,False,christianity.com directory
+60,Happy Valley Baptist Church,"1053 Buddy West Rd, Newnan, GA 30263",Newnan,33.438448,-84.784102,,,770-251-9911,"Baptist, Other",False,christianity.com directory; OpenStreetMap node/358686904
+61,Harvest Park Baptist Church,"37 Frank Cook Rd, Newnan, GA 30263",Newnan,33.439122,-84.766288,,,770-502-1444,"Baptist, Southern",False,christianity.com directory
+62,Heatherwood Baptist Church,"721 Shenandoah Blvd, Newnan, GA 30265",Newnan,33.381022,-84.739772,,,770-304-0091,"Baptist, Southern",False,christianity.com directory; OpenStreetMap way/1010304259
+63,Holiness Church,"Jefferson Street, Newnan, GA 30263",Newnan,33.381745,-84.797413,,,,,True,OpenStreetMap way/1010313358
+64,Hope Christian Center,"10 Forest Rd, Newnan, GA 30271",Newnan,33.383769,-84.731443,,,770-683-9565,"Pent, Word Churches",False,christianity.com directory
+65,Jones Hill United Methodist Church,"421 Walt Carmichael Rd, Newnan, GA 30263",Newnan,33.467208,-84.833938,,,,"Methodist, United",False,christianity.com directory; OpenStreetMap way/1010308784
+66,Kingdom Hall of Jehovah’s Witnesse,"530 Old Atlanta Highway, Newnan, GA 30263",Newnan,33.41377,-84.787066,,,,jehovahs_witness,False,OpenStreetMap way/627189467
+67,"Korean Church of Newnan, U.M.C.","1237 Lora Smith Road, Newnan, GA 30265",Newnan,33.405599,-84.695615,,,,united_methodist,False,OpenStreetMap way/723267146
+68,Liberty Christian Church,"Macedonia Road, Newnan, GA 30263",Newnan,33.443415,-84.83911,,,,,True,OpenStreetMap way/1010307758
+69,Life Changing Ministries,"East Washington Street, Newnan, GA 30263",Newnan,33.374703,-84.788173,,,,,True,OpenStreetMap node/2916753881
+70,Line Creek Baptist Church,"Bob Smith Road, Newnan, GA 30277",Newnan,33.38419,-84.651044,,,,baptist,True,OpenStreetMap way/1263573319
+71,Lovejoy Memorial Methodist Church,"East Washington Street, Newnan, GA 30263",Newnan,33.374838,-84.794657,,,,methodist,True,OpenStreetMap node/358761372
+72,Macedonia Baptist Church,"1504 Macedonia Rd, Newnan, GA 30263",Newnan,33.445839,-84.820439,,,770-253-7222,"Baptist, Southern",False,christianity.com directory; OpenStreetMap way/1010307746
+73,Message of Truth,"301 Jefferson St, Newnan, GA 30263",Newnan,33.3886,-84.787149,,,678-673-9960,"Evangelical, Non-Denomination",False,christianity.com directory
+74,Mill Chapel Baptist Church,"Cole Street, Newnan, GA 30263",Newnan,33.375394,-84.794102,,,,baptist,True,OpenStreetMap node/358757857
+75,Mills Chapel Baptist Church,"85 Country Club Rd, Newnan, GA 30263",Newnan,33.415818,-84.77989,,,770-253-7967,"Baptist, Southern",False,christianity.com directory; OpenStreetMap way/1010310165
+76,Miracle Tabernacle,"Corinth Road, Newnan, GA 30263",Newnan,33.329562,-84.80799,,,,,True,OpenStreetMap node/358761365
+77,Morning Star Baptist Church,"Elzie Johnson Road, Newnan, GA 30265",Newnan,33.447273,-84.692835,,,,,True,OpenStreetMap node/358692960
+78,Mount Carmel United Methodist Church,"958 Summers Mckoy Rd, Newnan, GA 30263",Newnan,33.405742,-84.918193,,,770-253-8376,"Methodist, United",False,christianity.com directory; OpenStreetMap node/358693303
+79,Mount Olive United Methodist Church,"Pate Road, Newnan, GA 30265",Newnan,33.356428,-84.741182,,,,,True,OpenStreetMap way/1010305562
+80,Mount Vernon First Baptist Church,"54 Pinson St, Newnan, GA 30263",Newnan,33.369561,-84.791046,,,770-253-3772,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358761356
+81,Mount Zion Baptist Church,"Old Carrollton Road, Newnan, GA 30275",Newnan,33.451381,-84.872311,,,,baptist,True,OpenStreetMap way/1010322843
+82,Mount Zion Corinth Baptist Church,"Coweta-Heard Road, Newnan, GA 30230",Newnan,33.23033,-84.936423,,,,,True,OpenStreetMap node/358694600
+83,Mt Sinai Missionary Baptist Church,"6 Lovelace St, Newnan, GA 30264",Newnan,33.375171,-84.811548,,,770-253-1976,"Baptist, Other",False,christianity.com directory; OpenStreetMap node/358757887
+84,New Beginning Faith Ministry,"Oak Lawn Circle, Newnan, GA 30263",Newnan,33.334909,-84.783518,,,,,True,OpenStreetMap way/1010317483
+85,New Elim Church,"Elim Church Road, Newnan, GA 30185",Newnan,33.393485,-84.981235,,,,,True,OpenStreetMap node/358695226
+86,New Heights Baptist Church,"2063 Sharpsburg Mccullum Rd, Newnan, GA 30265",Newnan,33.387711,-84.67375,https://newheightsbaptistchurch.com,address,770-252-0993,"Baptist, Southern",False,christianity.com directory; OpenStreetMap way/1279194254
+87,New Hope Baptist Church,"3989 Corinth Rd, Newnan, GA 30263",Newnan,33.286706,-84.881055,https://www.newhopenewnan.com,area,770-683-4778,"Baptist, Southern",False,OpenStreetMap node/358695528; OpenStreetMap node/358695538; christianity.com directory
+88,New Hope Missionary Baptist Church,"Corinth Road, Newnan, GA 30263",Newnan,33.285291,-84.881359,,,,baptist,True,OpenStreetMap node/358695535
+89,New Lebanon Baptist Church,"1674 Wagers Mill Rd, Newnan, GA 30263",Newnan,33.447036,-84.882471,,,770-254-0703,"Baptist, Southern",False,christianity.com directory; OpenStreetMap way/1344679371
+90,New Lebanon Baptist Church,"Dyer Road, Newnan, GA 30275",Newnan,33.447697,-84.906115,,,,baptist,True,OpenStreetMap way/1010323009
+91,New Macedonia Baptist Church,"Cedar Creek Road, Newnan, GA 30263",Newnan,33.466225,-84.741601,,,,baptist,True,OpenStreetMap node/358695812
+92,New Mount Calvary Church,"Mount Calvary Church Road, Newnan, GA 30265",Newnan,33.437892,-84.740212,,,,,True,OpenStreetMap node/358695825
+93,Newnan Chapel United Methodist Church,"72 Robinson St, Newnan, GA 30264",Newnan,33.367701,-84.794166,https://sites.google.com/seexecutivesolutions.com/ncumcgsite,address,770-253-9447,"Methodist, United",False,christianity.com directory; OpenStreetMap way/1010314384
+94,Newnan Church of Christ,"2675 Highway 34 E, Newnan, GA 30265",Newnan,33.40641,-84.694492,https://www.newnancoc.org,area,770-253-3684,"Christian, Coc Acapella",False,christianity.com directory; OpenStreetMap way/723267148
+95,Newnan City Church,"17 1St Ave, Newnan, GA 30263",Newnan,33.372273,-84.799311,https://newnancity.org,area,678-552-9817,"Methodist, Christian Episcopal",False,christianity.com directory; OpenStreetMap way/1010315595
+96,Newnan First Sda Church,"265 Yeager Rd, Newnan, GA 30264",Newnan,33.351878,-84.739162,https://newnanfirstsda.org,address,770-251-8378,"Adventist, Seventh Day",False,christianity.com directory
+97,Newnan First United Methodist Church,"33 Greenville St, Newnan, GA 30263",Newnan,33.373172,-84.800213,https://www.newnanfumc.org,address,770-253-7400,"Methodist, United",False,christianity.com directory; OpenStreetMap node/358761380
+98,Newnan Presbyterian Church,"38 Greenville St S, Newnan, GA 30263",Newnan,33.371271,-84.799506,https://www.newnanpres.org,area,770-253-4405,"Presbyterian, Other",False,christianity.com directory; OpenStreetMap node/358757742
+99,Northside Baptist Church,"Jackson Street, Newnan, GA 30265",Newnan,33.445953,-84.730468,,,,baptist,True,OpenStreetMap way/1010298944
+100,Oak Grove Baptist Church,"Sewell Mill Road, Newnan, GA 30263",Newnan,33.484291,-84.83278,,,,baptist,True,OpenStreetMap way/1010307142
+101,Oak Lawn Baptist Church,"482 Pine Rd, Newnan, GA 30263",Newnan,33.334153,-84.785965,,,770-502-0436,"Baptist, Southern",False,christianity.com directory
+102,Oaklawn Memorial Church,"Pine Road, Newnan, GA 30263",Newnan,33.333041,-84.783658,,,,,True,OpenStreetMap way/1010317723
+103,Old Mount Bethlehem Baptist Church,"602 Old Corinth Rd, Newnan, GA 30263",Newnan,33.346316,-84.838605,,,770-683-1520,"Baptist, Other",False,christianity.com directory; OpenStreetMap way/1051647457
+104,One Life Community Church,"1 Dowdell St, Newnan, GA 30263",Newnan,33.36116,-84.782718,,,770-304-2034,"Pent, Other",False,christianity.com directory
+105,Peachtree Church,"GA 34, Newnan, GA 30277",Newnan,33.400949,-84.63132,,,,,True,OpenStreetMap node/358757948
+106,Peachtree Hills Seventh-Day Adventist Church,"171 Gordon Rd, Newnan, GA 30263",Newnan,33.326703,-84.769492,,,770-253-8291,"Adventist, Seventh Day",False,christianity.com directory
+107,Pentecostal Church of God,"Bullsboro Drive, Newnan, GA 30263",Newnan,33.382343,-84.790649,,,,pentecostal,True,OpenStreetMap way/900514381
+108,Powell Chapel Methodist Church,"Old Atlanta Highway, Newnan, GA 30263",Newnan,33.414888,-84.785963,,,,methodist,True,OpenStreetMap way/1010309728
+109,Providence Baptist Church,"918 Providence Church Rd, Newnan, GA 30263",Newnan,33.385951,-84.894484,,,770-502-8431,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358700082
+110,Providence Baptist Church,"Summers McKoy Road, Newnan, GA 30263",Newnan,33.380763,-84.917614,,,,baptist,True,OpenStreetMap node/358700078
+111,Resurrection Lutheran Church,"1250 Lora Smith Rd, Newnan, GA 30265",Newnan,33.374475,-84.702747,,,770-254-8833,"Lutheran, Evangelical",False,christianity.com directory
+112,Resurrection Lutheran Church,"1250 Lora Smith Road, Newnan, GA 30265",Newnan,33.405965,-84.697925,,,,lutheran,False,OpenStreetMap way/699121168
+113,Russell Temple Ame Church,"155 Westside School Rd, Newnan, GA 30263",Newnan,33.374472,-84.830754,,,770-502-9300,"Methodist, African Epis",False,christianity.com directory
+114,Saint George Catholic Church,"771 Roscoe Road, Newnan, GA 30263",Newnan,33.413474,-84.809981,https://www.stgeorgenewnan.org,address,,roman_catholic,False,OpenStreetMap way/1010309967
+115,Saint George Catholic Church,"Jackson Street, Newnan, GA 30265",Newnan,33.387727,-84.800468,,,,,True,OpenStreetMap way/1010314183
+116,Saint John Baptist Church,"Saint John Circle, Newnan, GA 30264",Newnan,33.402867,-84.7499,,,,,True,OpenStreetMap way/900471002
+117,Saint Mary Magdalene Catholic Church,"3 Village Road, Newnan, GA 30265",Newnan,33.386667,-84.667172,,,,roman_catholic,False,OpenStreetMap way/1423180624
+118,Saint Smyrna Church,"Smokey Road, Newnan, GA 30263",Newnan,33.320776,-84.915669,,,,,True,OpenStreetMap node/358702559
+119,Scotts Chapel,"Lamb Road, Newnan, GA 30259",Newnan,33.267063,-84.764378,,,,,True,OpenStreetMap node/358703159
+120,Shady Grove Baptist Church,"1050 Welcome To Sargent Rd, Newnan, GA 30263",Newnan,33.421886,-84.884877,,,770-755-7729,"Baptist, Other",False,christianity.com directory; OpenStreetMap way/1010322060
+121,Smith Chapel United Methodist Church,"Lazenby Road, Newnan, GA 30263",Newnan,33.399908,-84.859209,,,,,True,OpenStreetMap way/1010321192
+122,Solid Rock Baptist Church,"2677 Highway 34 W, Newnan, GA 30263",Newnan,33.354296,-84.912771,,,,"Methodist, United",False,christianity.com directory; OpenStreetMap way/1014965161
+123,Solid Rock Fellowship Church of God In Christ,"590 Herring Rd, Newnan, GA 30265",Newnan,33.432206,-84.751197,,,,"Christian, Other",False,christianity.com directory
+124,Sonrise Baptist Church,"6 Shenandoah Blvd, Newnan, GA 30265",Newnan,33.398851,-84.732869,,,678-423-1828,"Baptist, Southern",False,christianity.com directory
+125,Southside Church,"Northcrest Drive, Newnan, GA 30265",Newnan,33.400492,-84.718722,https://southside.org,area,,,True,OpenStreetMap node/4085179552
+126,Southwest Christian Church,"3836 Us Hwy 29, Newnan, GA 30265",Newnan,33.454276,-84.696074,https://swchristianchurch.org,area,,,False,OpenStreetMap way/1010298703
+127,St Paul's Episcopal Church,"576 Roscoe Rd, Newnan, GA 30263",Newnan,33.408603,-84.811825,,,770-253-4264,Episcopal,False,christianity.com directory; OpenStreetMap way/1010310005
+128,St Smyrna Baptist Church,"68 Heery Rd, Newnan, GA 30263",Newnan,33.378816,-84.832866,,,678-673-6471,"Baptist, Other",False,christianity.com directory
+129,Summer Hill Baptist Church,"South US 29, Newnan, GA 30263",Newnan,33.328323,-84.780637,,,,baptist,True,OpenStreetMap way/391118152
+130,Sunnyside Baptist Church,"255 Greenville St, Newnan, GA 30263",Newnan,33.362167,-84.77243,https://www.sunnysidebaptistchurch.com,address,770-753-3571,"Baptist, Southern",False,christianity.com directory; OpenStreetMap way/1010315933
+131,Suwannee Church,"Ishman Ballard Road, Newnan, GA 30263",Newnan,33.36904,-84.850797,,,,,True,OpenStreetMap way/1010320139
+132,Tabernacle of Prayer,"73 Sprayberry Rd, Newnan, GA 30263",Newnan,33.391754,-84.790935,,,770-328-5382,"Pent, Church of God Cleveland",False,christianity.com directory
+133,The Church of God of the Union Assembly,"3821 Highway 34 W, Newnan, GA 30263",Newnan,33.345176,-84.945164,https://www.cogua.com/newnan,area,770-304-8910,"Holiness, Other",False,christianity.com directory
+134,The Church of Jesus Christ of Latter-day Saints,"Old Atlanta Highway, Newnan, GA 30263",Newnan,33.416722,-84.778308,,,,latter_day_saints,True,OpenStreetMap way/1010310039
+135,Trinity Church,"Franklin Road, Newnan, GA 30263",Newnan,33.384283,-84.838269,,,,,True,OpenStreetMap node/358758061
+136,Unity Baptist Church,"311 Smokey Rd, Newnan, GA 30263",Newnan,33.36184,-84.822197,,,770-253-2483,"Baptist, Southern",False,christianity.com directory; OpenStreetMap way/1010316246
+137,Wadley Chapel UMC,"Coweta-Heard Road, Newnan, GA 30230",Newnan,33.23007,-84.935199,,,,,True,OpenStreetMap node/358707831
+138,Welcome Road Baptist Church,"163 Welcome Rd, Newnan, GA 30263",Newnan,33.386384,-84.843797,,,770-253-8380,"Baptist, Other",False,christianity.com directory
+139,Wesley Chapel AME Church,"Happy Valley Circle, Newnan, GA 30263",Newnan,33.438519,-84.769182,,,,,True,OpenStreetMap node/358708439
+140,Wesley Chapel Church,"2563 Smokey Rd, Newnan, GA 30263",Newnan,33.331573,-84.87857,,,770-251-5408,"Methodist, Wesleyan",False,christianity.com directory; OpenStreetMap way/1010319516
+141,West Bethel Church,"Quarry Road, Newnan, GA 30275",Newnan,33.42067,-84.861604,,,,,True,OpenStreetMap node/358758073
+142,West Newnan Church,"Glover Road, Newnan, GA 30275",Newnan,33.411504,-84.852437,,,,,True,OpenStreetMap node/358708519
+143,West Side Church,"Smokey Road, Newnan, GA 30263",Newnan,33.358905,-84.829375,,,,,True,OpenStreetMap node/358761329
+144,Westside Baptist Church,"762 Smokey Rd, Newnan, GA 30271",Newnan,33.358927,-84.837098,,,770-251-5333,"Baptist, Southern",False,christianity.com directory
+145,White Oak First Baptist Church,"2078 Highway 34 E, Newnan, GA 30265",Newnan,33.403883,-84.714307,,,770-251-7870,"Baptist, Southern",False,christianity.com directory
+146,Zion Hill Baptist Church,"87 Pinson St, Newnan, GA 30263",Newnan,33.367348,-84.791771,,,770-253-1298,"Baptist, Other",False,christianity.com directory; OpenStreetMap way/1010315997
+147,Fellowship Baptist Chapel,"1188 Tommy Lee Cook Rd, Palmetto, GA 30268",Palmetto,33.505654,-84.694805,,,770-625-8475,"Baptist, Southern",False,christianity.com directory
+148,Living Faith Tabernacle Palmetto,"5936 N Highway 29, Palmetto, GA 30268",Palmetto,33.493179,-84.674114,,,770-952-9090,"Baptist, Southern",False,christianity.com directory
+149,Palmetto Baptist Church,"6344 N Highway 29, Palmetto, GA 30268",Palmetto,33.503669,-84.673633,,,770-463-4642,"Baptist, Southern",False,OpenStreetMap way/1051659406; christianity.com directory
+150,Sargent Baptist Church,"PO Box 189, Sargent, GA 30275",Sargent,33.433474,-84.869619,,,770-253-5859,"Baptist, Southern",False,christianity.com directory; OpenStreetMap way/1010321502
+151,First White Oak Grove Baptist Church,"3816 Gordon Rd, Senoia, GA 30276",Senoia,33.271974,-84.673759,,,770-502-1703,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358708812
+152,Greater Pineview Pure Holiness Church,"118 Chestlehurst Rd, Senoia, GA 30276",Senoia,33.291086,-84.540218,,,770-599-0621,"Holiness, Other",False,christianity.com directory
+153,Legacy Christian Church,"1150 Rockaway Rd, Senoia, GA 30276",Senoia,33.326876,-84.542595,,,770-599-3366,"Christian, Other",False,christianity.com directory; OpenStreetMap way/1480947651
+154,New Beginning Baptist Church,"973 Standing Rock Rd, Senoia, GA 30276",Senoia,33.312383,-84.584655,,,770-599-8071,"Baptist, Southern",False,christianity.com directory
+155,Oak Grove Baptist Church,"41 Seavy St, Senoia, GA 30276",Senoia,33.303036,-84.560275,,,770-599-8201,"Baptist, Other",False,christianity.com directory; OpenStreetMap way/1182942760
+156,Open Door Baptist Church,"7364 Highway 16, Senoia, GA 30276",Senoia,33.294008,-84.569095,,,678-633-7564,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358757945
+157,Sasser Grove Baptist Church,"100 Carl Williams Rd, Senoia, GA 30276",Senoia,33.262898,-84.521038,,,770-599-9002,"Baptist, Other",False,christianity.com directory; OpenStreetMap node/358703059
+158,Senoia United Methodist Church,"229 Bridge St, Senoia, GA 30276",Senoia,33.300227,-84.551937,https://senoiaumc.org,area,770-599-3245,"Methodist, United",False,christianity.com directory
+159,Sovereign Hope Church,"7280 Highway 16, Senoia, GA 30276",Senoia,33.293696,-84.571059,,,678-723-5742,"Baptist, Other",False,christianity.com directory
+160,White Oak Grove Baptist Church,"4619 Gordon Rd, Senoia, GA 30276",Senoia,33.264918,-84.649448,,,770-599-0757,"Baptist, Other",False,christianity.com directory; OpenStreetMap node/358757918
+161,White Oak Presbyterian Church Associate Reformed P,"2796 Gordon Rd, Senoia, GA 30276",Senoia,33.28345,-84.702695,,,770-253-7904,"Presbyterian, Assoc Reformed",False,christianity.com directory; OpenStreetMap node/358708805
+162,Cokes Chapel United Methodist Church,"4096 Lower Fayetteville Rd, Sharpsburg, GA 30277",Sharpsburg,33.384528,-84.665161,https://cokeschapel.com,address,770-253-6052,"Methodist, United",False,christianity.com directory; OpenStreetMap way/1205888905
+163,Community Christian Church,"1717 Highway 154, Sharpsburg, GA 30277",Sharpsburg,33.379864,-84.669589,,,770-251-9516,"Christian, Church of Christ",False,christianity.com directory; OpenStreetMap way/34843523
+164,Faith Bible Church,"4907 Highway 34 E, Sharpsburg, GA 30277",Sharpsburg,33.399082,-84.629885,https://faithbiblechurch.us,area,770-252-8244,"Fundamental, Bible",False,christianity.com directory; OpenStreetMap way/1078271747
+165,Faith Lutheran Church,"575 Fischer Rd, Sharpsburg, GA 30277",Sharpsburg,33.406738,-84.62354,,,770-253-4007,"Lutheran, Other",False,christianity.com directory; OpenStreetMap way/925616398
+166,Forward Church,"3500 Highway 34 E Ste 15, Sharpsburg, GA 30277",Sharpsburg,33.406008,-84.666633,,,770-824-3434,Unknown Denominations,False,christianity.com directory
+167,Grace Baptist Church,"825 Ebenezer Church Rd, Sharpsburg, GA 30277",Sharpsburg,33.384101,-84.672443,,,770-304-8846,"Baptist, Other",False,christianity.com directory; OpenStreetMap way/1279194263
+168,Hope Memorial Baptist Church,"2312 Fischer Rd, Sharpsburg, GA 30277",Sharpsburg,33.444856,-84.656701,,,770-683-7071,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358687957
+169,Liberty Hill Ame Church,"201 Minix Rd, Sharpsburg, GA 30277",Sharpsburg,33.419511,-84.625533,,,770-254-1542,"Methodist, African Epis",False,christianity.com directory; OpenStreetMap way/1017449502
+170,Mt Gilead United Methodist Church,"2651 Highway 16 E, Sharpsburg, GA 30277",Sharpsburg,33.330081,-84.695927,,,470-414-1045,"Methodist, United",False,christianity.com directory; OpenStreetMap node/358693450
+171,New Gate Church,"142 Cannon Rd, Sharpsburg, GA 30277",Sharpsburg,33.308093,-84.696065,,,770-251-7251,"Pent, Other",False,christianity.com directory
+172,Realchurch Coweta,"3613 Highway 34 E, Sharpsburg, GA 30277",Sharpsburg,33.405596,-84.663864,,,678-364-7900,"Baptist, Southern",True,christianity.com directory
+173,Rock Springs Baptist Church,"2405 Fischer Rd, Sharpsburg, GA 30277",Sharpsburg,33.447439,-84.656748,,,470-347-4864,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358701146
+174,Sharpsburg Baptist Church,"6413 State Rte 54, Sharpsburg, GA 30277",Sharpsburg,33.334305,-84.646686,https://www.sharpsburgbaptist.com,area,770-251-6963,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/358758027
+175,Sharpsburg Church of the Nazarene,"4757 Highway 34 E, Sharpsburg, GA 30277",Sharpsburg,33.40027,-84.634371,,,770-252-3734,"Holiness, Nazarene",True,christianity.com directory
+176,The Cathedral of Christ the King,"4881 Highway 34 E, Sharpsburg, GA 30277",Sharpsburg,33.399288,-84.630663,https://ctk.life,area,770-252-2428,Episcopal,True,christianity.com directory
+177,Tri-County Baptist Church,"5445 GA-16, Sharpsburg, GA 30277",Sharpsburg,33.344077,-84.65481,,,770-599-8121,"Baptist, Other",True,christianity.com directory
+178,Trinity Fellowship Church,"8817 Highway 54, Sharpsburg, GA 30277",Sharpsburg,33.395667,-84.618965,,,770-252-1020,"Pent, Assembly of God",False,christianity.com directory
+179,Word of God Lutheran Church,"4486 Highway 34 E, Sharpsburg, GA 30277",Sharpsburg,33.402416,-84.642475,,,770-897-4508,"Lutheran, Other",False,christianity.com directory; OpenStreetMap way/877954971
+180,China Grove Community Church,"45 China Grove St, Turin, GA 30289",Turin,33.323837,-84.633744,,,770-599-8014,"Baptist, Missionary",False,christianity.com directory
+181,Turin Baptist Church,"PO Box 99, Turin, GA 30289",Turin,33.327358,-84.634076,https://turinbaptist.com,area,770-599-3626,"Baptist, Southern",False,christianity.com directory; OpenStreetMap node/12160547375
+182,Turin Methodist Church,"20 Longstreet Ave, Turin, GA 30289",Turin,33.326124,-84.633007,https://turinmethodist.org,address,770-599-3169,"Methodist, United",False,christianity.com directory; OpenStreetMap node/12160547380

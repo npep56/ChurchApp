@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, Marker, Tooltip, GeoJSON } from 'react-leaflet
 import { X, Navigation, Globe, MapPin, Clock, Calendar, CheckCircle2, RefreshCw, Shuffle } from 'lucide-react';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
-import { Trash2, Route, NotebookPen, Heart } from 'lucide-react';
+import { Trash2, Route, NotebookPen, Heart, Phone } from 'lucide-react';
 import { base44 } from '@/api/base44Client';
 import ChurchNotesModal from '@/components/ChurchNotesModal';
 import MapAutoResize from '@/components/MapAutoResize';
@@ -506,6 +506,23 @@ export default function CowetaChurchMap() {
                   <Calendar size={15} className="flex-shrink-0 text-gray-400" />
                   <span>Day {selectedChurch.routeDay} · Stop {selectedChurch.routeStop} · {selectedChurch.city}</span>
                 </div>
+                {selectedChurch.phone && (
+                  <div className="flex items-center gap-2 text-sm text-gray-700">
+                    <Phone size={15} className="flex-shrink-0 text-gray-400" />
+                    <a href={`tel:${selectedChurch.phone}`} className="hover:underline">{selectedChurch.phone}</a>
+                  </div>
+                )}
+                {selectedChurch.website && selectedChurch.website_check && (
+                  <div className="flex items-start gap-2 text-xs text-green-700 bg-green-50 rounded px-2 py-1.5">
+                    <CheckCircle2 size={13} className="flex-shrink-0 mt-0.5" />
+                    <span>Website verified: {selectedChurch.website_check}</span>
+                  </div>
+                )}
+                {selectedChurch.address_approx && (
+                  <div className="text-xs text-amber-700 bg-amber-50 rounded px-2 py-1.5">
+                    {selectedChurch.location_note || 'No street number on file — map pin is from OpenStreetMap; confirm the address before visiting.'}
+                  </div>
+                )}
                 <div className="pt-2 flex flex-col gap-2">
                   <a
                     href={`https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(selectedChurch.address)}`}
